@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "red_sand" },
+            { "model": "red_sand", "y": 180 },
+            { "model": "red_sand", "y": 270 },
+            { "model": "blockstates_random/red_sand_1" }
+        ]
+    }
+}

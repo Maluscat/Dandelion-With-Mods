@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "transform": "forge:default-block",
+        "textures": {
+            "rail": "railcraft:blocks/tracks/flex/high_speed_electric_flat"
+        }
+    },
+    "variants": {
+        "shape": {
+            "north_south": { "model": "railcraft:rail_electric_flat" },
+            "east_west":   { "model": "railcraft:rail_electric_flat", "y": 90 },
+            "ascending_east":  { "model": "railcraft:rail_electric_raised_ne", "y": 90 },
+            "ascending_west":  { "model": "railcraft:rail_electric_raised_sw", "y": 90 },
+            "ascending_north": { "model": "railcraft:rail_electric_raised_ne" },
+            "ascending_south": { "model": "railcraft:rail_electric_raised_sw" },
+            "south_east": { "model": "railcraft:rail_electric_curved", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned" } },
+            "south_west": { "model": "railcraft:rail_electric_curved", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned" }, "y": 90 },
+            "north_west": { "model": "railcraft:rail_electric_curved", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned" }, "y": 180 },
+            "north_east": { "model": "railcraft:rail_electric_curved", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned" }, "y": 270 }
+        }
+    }
+}

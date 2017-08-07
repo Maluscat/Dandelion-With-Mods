@@ -1,0 +1,6 @@
+{
+    "parent": "block/parents/rail_raised_ne_dandelion",
+    "textures": {
+        "rail": "blocks/rail_normal"
+    }
+}

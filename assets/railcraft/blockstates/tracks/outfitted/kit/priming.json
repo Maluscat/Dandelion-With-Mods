@@ -1,0 +1,22 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "rail": "railcraft:blocks/tracks/outfitted/kit/priming_0"
+        }
+    },
+    "variants": {
+        "state": {
+            "0": { "textures": { "rail": "railcraft:blocks/tracks/outfitted/kit/priming_0" } },
+            "1": { "textures": { "rail": "railcraft:blocks/tracks/outfitted/kit/priming_1" } }
+        },
+        "shape": {
+            "north_south": { "model": "rail_flat" },
+            "east_west":   { "model": "rail_flat", "y": 90 },
+            "ascending_east":  { "model": "railcraft:outfitted_layer_raised_ne", "y": 90 },
+            "ascending_west":  { "model": "railcraft:outfitted_layer_raised_sw", "y": 90 },
+            "ascending_north": { "model": "railcraft:outfitted_layer_raised_ne" },
+            "ascending_south": { "model": "railcraft:outfitted_layer_raised_sw" }
+        }
+    }
+}

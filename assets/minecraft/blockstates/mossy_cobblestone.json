@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "mossy_cobblestone" },
+            { "model": "blockstates_random/cobblestone_mossy_1" },
+            { "model": "blockstates_random/cobblestone_mossy_2" },
+            { "model": "blockstates_random/cobblestone_mossy_3" },
+            { "model": "blockstates_random/cobblestone_mossy_4" },
+            { "model": "blockstates_random/cobblestone_mossy_5" },
+            { "model": "blockstates_random/cobblestone_mossy_6" },
+            { "model": "blockstates_random/cobblestone_mossy_7" },
+            { "model": "blockstates_random/cobblestone_mossy_8" },
+            { "model": "blockstates_random/cobblestone_mossy_9" },
+            { "model": "blockstates_random/cobblestone_mossy_10" },
+            { "model": "blockstates_random/cobblestone_mossy_11" },
+            { "model": "blockstates_random/cobblestone_mossy_12" },
+            { "model": "blockstates_random/cobblestone_mossy_13" },
+            { "model": "blockstates_random/cobblestone_mossy_14" },
+            { "model": "blockstates_random/cobblestone_mossy_15" },
+            { "model": "blockstates_random/cobblestone_mossy_16" },
+            { "model": "blockstates_random/cobblestone_mossy_17" },
+            { "model": "blockstates_random/cobblestone_mossy_18" },
+            { "model": "blockstates_random/cobblestone_mossy_19" },
+            { "model": "blockstates_random/cobblestone_mossy_20" },
+            { "model": "blockstates_random/cobblestone_mossy_21" },
+            { "model": "blockstates_random/cobblestone_mossy_22" },
+            { "model": "blockstates_random/cobblestone_mossy_23" }
+        ]
+    }
+}

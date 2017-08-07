@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "end_stone" },
+            { "model": "blockstates_random/end_stone_1" },
+            { "model": "blockstates_random/end_stone_2" },
+            { "model": "blockstates_random/end_stone_3" },
+            { "model": "blockstates_random/end_stone_4" }
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "parent": "block/block",
+    "__comment": "Model generated using MrCrayfish's Model Creator and by editing this file (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "appliedenergistics2:blocks/drive_side",
+        "front": "appliedenergistics2:blocks/drive_front",
+        "side": "appliedenergistics2:blocks/drive_side",
+        "top": "appliedenergistics2:blocks/drive_top",
+        "bottom": "appliedenergistics2:blocks/drive_bottom"
+    },
+    "elements": [
+        {
+            "name": "Right side Panel",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 2.0, 16.0, 16 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 14.0, 0.0, 16.0, 16.0 ], "cullface": "north" },
+                "east": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#side", "uv": [ 0.0, 0.0, 2.0, 16.0 ], "cullface": "south" },
+                "west": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "cullface": "west" },
+                "up": { "texture": "#top", "uv": [ 0.0, 0.0, 2.0, 16.0 ], "cullface": "up" },
+                "down": { "texture": "#bottom", "uv": [ 0.0, 0.0, 2.0, 16.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Left side Panel",
+            "from": [ 14.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 16 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 0.0, 0.0, 2.0, 16.0 ], "cullface": "north" },
+                "east": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "cullface": "east" },
+                "south": { "texture": "#side", "uv": [ 14.0, 0.0, 16.0, 16.0 ], "cullface": "south" },
+                "west": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#top", "uv": [ 14.0, 0.0, 16.0, 16.0 ], "cullface": "up" },
+                "down": { "texture": "#bottom", "uv": [ 14.0, 0.0, 16.0, 16.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Back Panel",
+            "from": [ 2.0, 0.0, 5.3 ], 
+            "to": [ 14.0, 16.0, 16 ], 
+            "faces": {
+                "north": { "texture": "#bottom", "uv": [ 2.0, 2.0, 14.0, 14.0 ] },
+                "south": { "texture": "#side", "uv": [ 2.0, 0.0, 14.0, 16.0 ], "cullface": "south" },
+                "up": { "texture": "#top", "uv": [ 2.0, 5.3, 14.0, 16.0 ], "cullface": "up" },
+                "down": { "texture": "#bottom", "uv": [ 2.0, 0.0, 14.0, 10.7 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Bottom Panel",
+            "from": [ 2.0, 0.0, 0.0 ], 
+            "to": [ 14.0, 1.0, 5.3 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 2.0, 15.0, 14.0, 16.0 ], "cullface": "north" },
+                "up": { "texture": "#bottom", "uv": [ 2.0, 1.7, 14.0, 6.5 ] },
+                "down": { "texture": "#bottom", "uv": [ 2.0, 10.7, 14.0, 16.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Top Panel",
+            "from": [ 2.0, 15.0, 0.0 ], 
+            "to": [ 14.0, 16.0, 5.3 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 2.0, 0.0, 14.0, 1.0 ], "cullface": "north" },
+                "up": { "texture": "#top", "uv": [ 2.0, 0.0, 14.0, 5.3 ], "cullface": "up" },
+                "down": { "texture": "#bottom", "uv": [ 2.0, 6.5, 14.0, 1.7 ] }
+            }
+        },
+        {
+            "name": "Middle Strut",
+            "from": [ 7.0, 1.0, 0.0 ], 
+            "to": [ 9.0, 15.0, 5.3 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 7.0, 1.0, 9.0, 15.0 ], "cullface": "north" },
+                "east": { "texture": "#side", "uv": [ 0.0, 1.0, 16.0, 15.0 ] },
+                "west": { "texture": "#side", "uv": [ 0.0, 1.0, 16.0, 15.0 ] }
+            }
+        },
+        {
+            "name": "Separator bottom",
+            "from": [ 2.0, 3.0, 0.7 ], 
+            "to": [ 14.0, 4.0, 5.3 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 2.0, 12.0, 14.0, 13.0 ] },
+                "up": { "texture": "#front", "uv": [ 2.0, 12.0, 14.0, 13.0 ] },
+                "down": { "texture": "#front", "uv": [ 2.0, 12.0, 14.0, 13.0 ] }
+            }
+        },
+        {
+            "name": "Separator 2",
+            "from": [ 2.0, 6.0, 0.7 ], 
+            "to": [ 14.0, 7.0, 5.3 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 2.0, 9.0, 14.0, 10.0 ] },
+                "up": { "texture": "#front", "uv": [ 2.0, 9.0, 14.0, 10.0 ] },
+                "down": { "texture": "#front", "uv": [ 2.0, 9.0, 14.0, 10.0 ] }
+            }
+        },
+        {
+            "name": "Separator 3",
+            "from": [ 2.0, 9.0, 0.7 ], 
+            "to": [ 14.0, 10.0, 5.3 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 2.0, 6.0, 14.0, 7.0 ] },
+                "up": { "texture": "#front", "uv": [ 2.0, 6.0, 14.0, 7.0 ] },
+                "down": { "texture": "#front", "uv": [ 2.0, 6.0, 14.0, 7.0 ] }
+            }
+        },
+        {
+            "name": "Separator top",
+            "from": [ 2.0, 12.0, 0.7 ], 
+            "to": [ 14.0, 13.0, 5.3 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 2.0, 3.0, 14.0, 4.0 ] },
+                "up": { "texture": "#front", "uv": [ 2.0, 3.0, 14.0, 4.0 ] },
+                "down": { "texture": "#front", "uv": [ 2.0, 3.0, 14.0, 4.0 ] }
+            }
+        }
+    ]
+}

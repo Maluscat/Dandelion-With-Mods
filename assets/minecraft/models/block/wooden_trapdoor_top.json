@@ -1,0 +1,154 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator and by listening to cool music :) (http://mrcrayfish.com/modelcreator/)",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/trapdoor",
+        "trapdoor": "blocks/trapdoor"
+    },
+    "elements": [
+        {
+            "name": "Main parts",
+            "from": [ 0.0, 13.0, 0.0 ],
+            "to":   [ 16.0, 16.0, 5.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 16.0, 0.0, 0.0, 1.0 ], "cullface": "north" },
+                "east":  { "texture": "#trapdoor", "uv": [ 15.0, 0.0, 16.0, 5.0 ], "rotation": 90, "cullface": "east" },
+                "south": { "texture": "#trapdoor", "uv": [ 0.0, 4.0, 16.0, 5.0 ] },
+                "west":  { "texture": "#trapdoor", "uv": [ 0.0, 5.0, 1.0, 0.0 ], "rotation": 90, "cullface": "west" },
+                "up":    { "texture": "#trapdoor", "uv": [ 0.0, 0.0, 16.0, 5.0 ] },
+                "down":  { "texture": "#trapdoor", "uv": [ 0.0, 5.0, 16.0, 0.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0.0, 13.0, 11.0 ],
+            "to":   [ 16.0, 16.0, 16.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 16.0, 11.0, 0.0, 12.0 ] },
+                "east":  { "texture": "#trapdoor", "uv": [ 16.0, 11.0, 15.0, 16.0 ], "rotation": 90, "cullface": "east" },
+                "south": { "texture": "#trapdoor", "uv": [ 0.0, 15.0, 16.0, 16.0 ], "cullface": "south" },
+                "west":  { "texture": "#trapdoor", "uv": [ 0.0, 16.0, 1.0, 11.0 ], "rotation": 90, "cullface": "west" },
+                "up":    { "texture": "#trapdoor", "uv": [ 0.0, 11.0, 16.0, 16.0 ] },
+                "down":  { "texture": "#trapdoor", "uv": [ 0.0, 16.0, 16.0, 11.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Parts side",
+            "from": [ 0.2, 13.3, 5.0 ],
+            "to":   [ 5.2, 15.7, 11.0 ],
+            "faces": {
+                "east": { "texture": "#trapdoor", "uv": [ 4.0, 5.0, 5.0, 11.0 ], "rotation": 90 },
+                "west": { "texture": "#trapdoor", "uv": [ 0.0, 11.0, 1.0, 5.0 ], "rotation": 90 },
+                "up":   { "texture": "#trapdoor", "uv": [ 0.0, 5.0, 5.0, 11.0 ] },
+                "down": { "texture": "#trapdoor", "uv": [ 0.0, 11.0, 5.0, 5.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10.8, 13.3, 5.0 ],
+            "to":   [ 15.8, 15.7, 11.0 ],
+            "faces": {
+                "east": { "texture": "#trapdoor", "uv": [ 15.0, 5.0, 16.0, 11.0 ], "rotation": 90 },
+                "west": { "texture": "#trapdoor", "uv": [ 11.0, 11.0, 12.0, 5.0 ], "rotation": 90 },
+                "up":   { "texture": "#trapdoor", "uv": [ 11.0, 5.0, 16.0, 11.0 ] },
+                "down": { "texture": "#trapdoor", "uv": [ 11.0, 11.0, 16.0, 5.0 ] }
+            }
+        },
+        {
+            "name": "Knobs upper -- north",
+            "from": [ 2.0, 16.0, 2.0 ],
+            "to":   [ 3.0, 16.13, 3.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 2.0, 2.0, 3.0, 3.0 ] },
+                "east":  { "texture": "#trapdoor", "uv": [ 2.0, 2.0, 3.0, 3.0 ], "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 2.0, 2.0, 3.0, 3.0 ] },
+                "west":  { "texture": "#trapdoor", "uv": [ 2.0, 3.0, 3.0, 2.0 ], "rotation": 90 },
+                "up":    { "texture": "#trapdoor", "uv": [ 2.0, 2.0, 3.0, 3.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13.0, 16.0, 2.0 ],
+            "to":   [ 14.0, 16.13, 3.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 13.0, 2.0, 14.0, 3.0 ] },
+                "east":  { "texture": "#trapdoor", "uv": [ 13.0, 2.0, 14.0, 3.0 ], "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 13.0, 2.0, 14.0, 3.0 ] },
+                "west":  { "texture": "#trapdoor", "uv": [ 13.0, 3.0, 14.0, 2.0 ], "rotation": 90 },
+                "up":    { "texture": "#trapdoor", "uv": [ 13.0, 2.0, 14.0, 3.0 ] }
+            }
+        },
+        {
+            "name": "-- south",
+            "from": [ 13.0, 16.0, 13.0 ],
+            "to":   [ 14.0, 16.13, 14.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 13.0, 13.0, 14.0, 14.0 ] },
+                "east":  { "texture": "#trapdoor", "uv": [ 13.0, 13.0, 14.0, 14.0 ], "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 13.0, 13.0, 14.0, 14.0 ] },
+                "west":  { "texture": "#trapdoor", "uv": [ 13.0, 14.0, 14.0, 13.0 ], "rotation": 90 },
+                "up":    { "texture": "#trapdoor", "uv": [ 13.0, 13.0, 14.0, 14.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.0, 16.0, 13.0 ],
+            "to":   [ 3.0, 16.13, 14.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 2.0, 13.0, 3.0, 14.0 ] },
+                "east":  { "texture": "#trapdoor", "uv": [ 2.0, 13.0, 3.0, 14.0 ], "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 2.0, 13.0, 3.0, 14.0 ] },
+                "west":  { "texture": "#trapdoor", "uv": [ 2.0, 14.0, 3.0, 13.0 ], "rotation": 90 },
+                "up":    { "texture": "#trapdoor", "uv": [ 2.0, 13.0, 3.0, 14.0 ] }
+            }
+        },
+        {
+            "name": "Knobs lower -- north",
+            "from": [ 2.0, 12.87, 2.0 ],
+            "to":   [ 3.0, 13.0, 3.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 2.0, 3.0, 3.0, 2.0 ], "cullface": "down" },
+                "east":  { "texture": "#trapdoor", "uv": [ 2.0, 2.0, 3.0, 3.0 ], "cullface": "down", "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 2.0, 3.0, 3.0, 2.0 ], "cullface": "down" },
+                "west":  { "texture": "#trapdoor", "uv": [ 2.0, 3.0, 3.0, 2.0 ], "cullface": "down", "rotation": 90 },
+                "down":  { "texture": "#trapdoor", "uv": [ 2.0, 3.0, 3.0, 2.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13.0, 12.87, 2.0 ],
+            "to":   [ 14.0, 13.0, 3.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 13.0, 3.0, 14.0, 2.0 ], "cullface": "down" },
+                "east":  { "texture": "#trapdoor", "uv": [ 13.0, 2.0, 14.0, 3.0 ], "cullface": "down", "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 13.0, 3.0, 14.0, 2.0 ], "cullface": "down" },
+                "west":  { "texture": "#trapdoor", "uv": [ 13.0, 3.0, 14.0, 2.0 ], "cullface": "down", "rotation": 90 },
+                "down":  { "texture": "#trapdoor", "uv": [ 13.0, 3.0, 14.0, 2.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "-- south",
+            "from": [ 13.0, 12.87, 13.0 ],
+            "to":   [ 14.0, 13.0, 14.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 13.0, 14.0, 14.0, 13.0 ], "cullface": "down" },
+                "east":  { "texture": "#trapdoor", "uv": [ 13.0, 13.0, 14.0, 14.0 ], "cullface": "down", "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 13.0, 14.0, 14.0, 13.0 ], "cullface": "down" },
+                "west":  { "texture": "#trapdoor", "uv": [ 13.0, 14.0, 14.0, 13.0 ], "cullface": "down", "rotation": 90 },
+                "down":  { "texture": "#trapdoor", "uv": [ 13.0, 14.0, 14.0, 13.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.0, 12.87, 13.0 ],
+            "to":   [ 3.0, 13.0, 14.0 ],
+            "faces": {
+                "north": { "texture": "#trapdoor", "uv": [ 2.0, 14.0, 3.0, 13.0 ], "cullface": "down" },
+                "east":  { "texture": "#trapdoor", "uv": [ 2.0, 13.0, 3.0, 14.0 ], "cullface": "down", "rotation": 90 },
+                "south": { "texture": "#trapdoor", "uv": [ 2.0, 14.0, 3.0, 13.0 ], "cullface": "down" },
+                "west":  { "texture": "#trapdoor", "uv": [ 2.0, 14.0, 3.0, 13.0 ], "cullface": "down", "rotation": 90 },
+                "down":  { "texture": "#trapdoor", "uv": [ 2.0, 14.0, 3.0, 13.0 ], "cullface": "down" }
+            }
+        }
+    ]
+}

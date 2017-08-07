@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stonebrick_normal" },
+            { "model": "blockstates_random/stonebrick_normal_1" },
+            { "model": "blockstates_random/stonebrick_normal_2" },
+            { "model": "blockstates_random/stonebrick_normal_3" },
+            { "model": "blockstates_random/stonebrick_normal_4" }
+        ]
+    }
+}

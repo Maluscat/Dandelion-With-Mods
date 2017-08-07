@@ -1,0 +1,18 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "rail": "railcraft:blocks/tracks/outfitted/type/high_speed"
+        }
+    },
+    "variants": {
+        "shape": {
+            "north_south": { "model": "railcraft:rail_flat_outfitted" },
+            "east_west":   { "model": "railcraft:rail_flat_outfitted", "y": 90 },
+            "ascending_east":  { "model": "railcraft:rail_raised_ne_outfitted", "y": 90 },
+            "ascending_west":  { "model": "railcraft:rail_raised_sw_outfitted", "y": 90 },
+            "ascending_north": { "model": "railcraft:rail_raised_ne_outfitted" },
+            "ascending_south": { "model": "railcraft:rail_raised_sw_outfitted" }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "half=bottom": [
+            { "model": "half_slab_sandstone" },
+            { "model": "blockstates_random/half_slab_sandstone_1" },
+            { "model": "blockstates_random/half_slab_sandstone_2" },
+            { "model": "blockstates_random/half_slab_sandstone_3" },
+            { "model": "blockstates_random/half_slab_sandstone_4" }
+        ],
+        "half=top": [
+            { "model": "upper_slab_sandstone" },
+            { "model": "blockstates_random/upper_slab_sandstone_1" },
+            { "model": "blockstates_random/upper_slab_sandstone_2" },
+            { "model": "blockstates_random/upper_slab_sandstone_3" },
+            { "model": "blockstates_random/upper_slab_sandstone_4" }
+        ]
+    }
+}

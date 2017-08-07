@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "snow" },
+            { "model": "snow", "y": 180 },
+            { "model": "snow", "y": 270 },
+            { "model": "blockstates_random/snow_1" }
+        ]
+    }
+}

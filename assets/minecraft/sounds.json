@@ -1,0 +1,11 @@
+{
+    "weather.rain": {
+        "category": "weather",
+        "replace": true,
+        "subtitle": "Confetti rain!",
+        "sounds": [
+            "rain_glitter_1",
+            "rain_glitter_2"
+        ]
+    }
+}

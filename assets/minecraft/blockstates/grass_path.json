@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "grass_path" },
+            { "model": "grass_path", "y": 90 },
+            { "model": "grass_path", "y": 180 },
+            { "model": "grass_path", "y": 270 },
+            { "model": "blockstates_random/grass_path_1" },
+            { "model": "blockstates_random/grass_path_1", "y": 90 },
+            { "model": "blockstates_random/grass_path_1", "y": 180 },
+            { "model": "blockstates_random/grass_path_1", "y": 270 },
+            { "model": "blockstates_random/grass_path_2" },
+            { "model": "blockstates_random/grass_path_2", "y": 90 },
+            { "model": "blockstates_random/grass_path_2", "y": 180 },
+            { "model": "blockstates_random/grass_path_2", "y": 270 },
+            { "model": "blockstates_random/grass_path_3" },
+            { "model": "blockstates_random/grass_path_3", "y": 90 },
+            { "model": "blockstates_random/grass_path_3", "y": 180 },
+            { "model": "blockstates_random/grass_path_3", "y": 270 },
+            { "model": "blockstates_random/grass_path_4" },
+            { "model": "blockstates_random/grass_path_4", "y": 90 },
+            { "model": "blockstates_random/grass_path_4", "y": 180 },
+            { "model": "blockstates_random/grass_path_4", "y": 270 }
+        ]
+    }
+}

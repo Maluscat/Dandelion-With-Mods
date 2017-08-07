@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/blockstates_random_textures/red_sandstone_top_5"
+    }
+}

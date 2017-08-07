@@ -1,0 +1,38 @@
+Credits for the Dandelion With Mods resourcepack:
+
+-> Steelfeathers for everything
+-> Rhinokneel for a part of the ironchest textures
+-> Spidermas99 for the Biomes o' Plenty and vanilla Minecraft improvements* and the Minecraft Comes Alive (MCA) and Nether Core textures
+-> CPU678 as help for refining and rating textures
+-> RaphZou for the super awesome armor textures
+-> Halbzwilling for providing me with the cool command block textures and for helping me a lot with the sea lantern and concrete powder textures!
+
+
+
+
+
+
+
+
+
+
+
+
+
+-> Me :^)
+
+
+
+More information to the credits at the Planetminecraft page for this pack! I suppose you find it yourself, given that you downloaded it there.
+
+
+
+
+
+*Minecraft improvements by him are: -end rod, barrier
+                                    -writable and written books, chorus fruit, dragon breath, lapis lazuli, command block in a minecart, glass bottle,
+                                      boat (item), rotten flesh, ruby (whatever that is in game), animated slimeball, snowball, spectral and tipped arrows
+                                    -armorstand, boat, banner and snowman textures
+                                    -the Mojang logo when starting minecraft, resource pack and server selection arrows, stream indicator textures,
+                                      offhand slot, various particles
+                                    -randomized cow, creeper and iron golem (applied with optifine)

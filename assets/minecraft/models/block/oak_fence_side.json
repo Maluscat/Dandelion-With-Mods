@@ -1,0 +1,6 @@
+{
+    "parent": "block/parents/fence_side_dandelion",
+    "textures": {
+        "fence": "blocks/fence_side_oak_wtf"
+    }
+}

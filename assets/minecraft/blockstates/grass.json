@@ -1,0 +1,37 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "grass_normal" },
+            { "model": "grass_normal", "y": 90 },
+            { "model": "grass_normal", "y": 180 },
+            { "model": "grass_normal", "y": 270 },
+            { "model": "blockstates_random/grass_normal_1" },
+            { "model": "blockstates_random/grass_normal_1", "y": 90 },
+            { "model": "blockstates_random/grass_normal_1", "y": 180 },
+            { "model": "blockstates_random/grass_normal_1", "y": 270 },
+            { "model": "blockstates_random/grass_normal_2" },
+            { "model": "blockstates_random/grass_normal_2", "y": 90 },
+            { "model": "blockstates_random/grass_normal_2", "y": 180 },
+            { "model": "blockstates_random/grass_normal_2", "y": 270 },
+            { "model": "blockstates_random/grass_normal_3" },
+            { "model": "blockstates_random/grass_normal_3", "y": 90 },
+            { "model": "blockstates_random/grass_normal_3", "y": 180 },
+            { "model": "blockstates_random/grass_normal_3", "y": 270 },
+            { "model": "blockstates_random/grass_normal_4" },
+            { "model": "blockstates_random/grass_normal_4", "y": 90 },
+            { "model": "blockstates_random/grass_normal_4", "y": 180 },
+            { "model": "blockstates_random/grass_normal_4", "y": 270 }
+        ],
+        "snowy=true": [
+            { "model": "grass_snowed" },
+            { "model": "blockstates_random/grass_snowed_1" },
+            { "model": "blockstates_random/grass_snowed_2" },
+            { "model": "blockstates_random/grass_snowed_3" },
+            { "model": "blockstates_random/grass_snowed_4" },
+            { "model": "blockstates_random/grass_snowed_5" },
+            { "model": "blockstates_random/grass_snowed_6" },
+            { "model": "blockstates_random/grass_snowed_7" },
+            { "model": "blockstates_random/grass_snowed_8" }
+        ]
+    }
+}

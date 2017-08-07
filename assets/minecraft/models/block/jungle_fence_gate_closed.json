@@ -1,0 +1,6 @@
+{
+    "parent": "block/parents/fence_gate_closed_dandelion",
+    "textures": {
+        "fence": "blocks/fence_gate_jungle"
+    }
+}

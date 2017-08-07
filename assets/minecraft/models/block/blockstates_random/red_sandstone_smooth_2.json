@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/blockstates_random_textures/red_sandstone_top_2",
+        "side": "blocks/blockstates_random_textures/red_sandstone_smooth_2"
+    }
+}

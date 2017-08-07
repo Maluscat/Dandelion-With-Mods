@@ -1,0 +1,232 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator by opening fence gates (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "#texture"
+    },
+    "elements": [
+        {
+            "name": "Upper left gate",
+            "from": [ 0.6, 12.0, 9 ],
+            "to":   [ 2.4, 15.0, 14.4 ],
+            "faces": {
+                "east":  { "texture": "#texture", "uv": [ 2.0, 6.0, 6.0, 9.0 ] },
+                "south": { "texture": "#texture", "uv": [ 12.0, 6.0, 13.0, 9.0 ] },
+                "west":  { "texture": "#texture", "uv": [ 9.0, 6.0, 13.0, 9.0 ] },
+                "up":    { "texture": "#texture", "uv": [ 7.0, 1.0, 3.0, 2.0 ], "rotation": 90 },
+                "down":  { "texture": "#texture", "uv": [ 13.0, 0.0, 9.0, 1.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Upper right gate",
+            "from": [ 13.6, 12.0, 9 ],
+            "to":   [ 15.4, 15.0, 14.4 ],
+            "faces": {
+                "east":  { "texture": "#texture", "uv": [ 2.0, 6.0, 6.0, 9.0 ] },
+                "south": { "texture": "#texture", "uv": [ 12.0, 6.0, 13.0, 9.0 ] },
+                "west":  { "texture": "#texture", "uv": [ 9.0, 6.0, 13.0, 9.0 ] },
+                "up":    { "texture": "#texture", "uv": [ 7.0, 1.0, 3.0, 2.0 ], "rotation": 90 },
+                "down":  { "texture": "#texture", "uv": [ 13.0, 0.0, 9.0, 1.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Lower left gate",
+            "from": [ 0.6, 6.0, 9 ],
+            "to":   [ 2.4, 9.0, 14.4 ],
+            "faces": {
+                "east":  { "texture": "#texture", "uv": [ 2.0, 6.0, 6.0, 9.0 ] },
+                "south": { "texture": "#texture", "uv": [ 12.0, 6.0, 13.0, 9.0 ] },
+                "west":  { "texture": "#texture", "uv": [ 9.0, 6.0, 13.0, 9.0 ] },
+                "up":    { "texture": "#texture", "uv": [ 7.0, 1.0, 3.0, 2.0 ], "rotation": 90 },
+                "down":  { "texture": "#texture", "uv": [ 13.0, 0.0, 9.0, 1.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Lower right gate",
+            "from": [ 13.6, 6.0, 9 ],
+            "to":   [ 15.4, 9.0, 14.4 ],
+            "faces": {
+                "east":  { "texture": "#texture", "uv": [ 2.0, 6.0, 6.0, 9.0 ] },
+                "south": { "texture": "#texture", "uv": [ 12.0, 6.0, 13.0, 9.0 ] },
+                "west":  { "texture": "#texture", "uv": [ 9.0, 6.0, 13.0, 9.0 ] },
+                "up":    { "texture": "#texture", "uv": [ 7.0, 1.0, 3.0, 2.0 ], "rotation": 90 },
+                "down":  { "texture": "#texture", "uv": [ 13.0, 0.0, 9.0, 1.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Left post corner strips until next",
+            "from": [ 0.0, 6.5, 6.6 ],
+            "to":   [ 1.0, 14.5, 7.5 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 6.0, 4.5, 7.0, 12.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 4.5, 7.0, 12.5 ], "cullface": "west" }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.0, 6.5, 6.6 ],
+            "to":   [ 3.0, 14.5, 7.5 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 4.5, 7.0, 12.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.0, 6.5, 8.5 ],
+            "to":   [ 3.0, 14.5, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.0 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0.0, 6.5, 8.5 ],
+            "to":   [ 1.0, 14.5, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 3.5, 6.9, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ], "cullface": "west" }
+            }
+        },
+        {
+            "name": "Left post carved tiles until next",
+            "from": [ 0.4, 6.5, 7.5 ],
+            "to":   [ 2.6, 14.5, 8.5 ],
+            "faces": {
+                "east": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] },
+                "west": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 1.0, 6.5, 7.0 ],
+            "to":   [ 2.0, 14.5, 9.0 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Left post top cap",
+            "from": [ 0.0, 14.5, 6.6 ],
+            "to":   [ 3.0, 16.0, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ] },
+                "south": { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ], "cullface": "west" },
+                "up":    { "texture": "#texture", "uv": [ 13.0, 13.0, 16.0, 16.0 ], "cullface": "up" },
+                "down":  { "texture": "#texture", "uv": [ 4.0, 2.0, 5.0, 3.0 ] }
+            }
+        },
+        {
+            "name": "Left post bottom cap",
+            "from": [ 0.0, 5.0, 6.6 ],
+            "to":   [ 3.0, 6.5, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ] },
+                "south": { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ], "cullface": "west" },
+                "up":    { "texture": "#texture", "uv": [ 4.0, 2.0, 5.0, 3.0 ] },
+                "down":  { "texture": "#texture", "uv": [ 13.0, 13.0, 16.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "Right post strips until next",
+            "from": [ 13.0, 6.5, 6.6 ],
+            "to":   [ 14.0, 14.5, 7.5 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 15.0, 6.5, 6.6 ],
+            "to":   [ 16.0, 14.5, 7.5 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ], "cullface": "east" },
+                "south": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 15.0, 6.5, 8.5 ],
+            "to":   [ 16.0, 14.5, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.0 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ], "cullface": "east" },
+                "south": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 8.0, 2.5, 9.0, 10.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13.0, 6.5, 8.5 ],
+            "to":   [ 14.0, 14.5, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 3.5, 6.9, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 6.0, 3.5, 7.0, 11.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 8.0, 3.5, 9.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Right post carved tiles until next",
+            "from": [ 13.5, 6.5, 7.5 ],
+            "to":   [ 15.7, 14.5, 8.5 ],
+            "faces": {
+                "east": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] },
+                "west": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 14.0, 6.5, 7.0 ],
+            "to":   [ 15.0, 14.5, 9.0 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] },
+                "south": { "texture": "#texture", "uv": [ 7.0, 3.5, 8.0, 11.5 ] }
+            }
+        },
+        {
+            "name": "Right post top cap",
+            "from": [ 13.0, 14.5, 6.6 ],
+            "to":   [ 16.0, 16.0, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ], "cullface": "east" },
+                "south": { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 2.0, 9.0, 3.5 ] },
+                "up":    { "texture": "#texture", "uv": [ 13.0, 13.0, 16.0, 16.0 ], "cullface": "up" },
+                "down":  { "texture": "#texture", "uv": [ 4.0, 2.0, 5.0, 3.0 ] }
+            }
+        },
+        {
+            "name": "Right post bottom cap",
+            "from": [ 13.0, 5.0, 6.6 ],
+            "to":   [ 16.0, 6.5, 9.4 ],
+            "faces": {
+                "north": { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ] },
+                "east":  { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ], "cullface": "east" },
+                "south": { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ] },
+                "west":  { "texture": "#texture", "uv": [ 6.0, 11.5, 9.0, 13.0 ] },
+                "up":    { "texture": "#texture", "uv": [ 4.0, 2.0, 5.0, 3.0 ] },
+                "down":  { "texture": "#texture", "uv": [ 13.0, 13.0, 16.0, 16.0 ] }
+            }
+        }
+    ]
+}

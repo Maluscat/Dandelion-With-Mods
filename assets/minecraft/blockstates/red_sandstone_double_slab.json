@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "red_sandstone_normal" },
+            { "model": "blockstates_random/red_sandstone_normal_1" },
+            { "model": "blockstates_random/red_sandstone_normal_2" },
+            { "model": "blockstates_random/red_sandstone_normal_3" },
+            { "model": "blockstates_random/red_sandstone_normal_4" }
+        ],
+        "all": [
+            { "model": "red_sandstone_all" },
+            { "model": "blockstates_random/red_sandstone_all_1" },
+            { "model": "blockstates_random/red_sandstone_all_2" },
+            { "model": "blockstates_random/red_sandstone_all_3" },
+            { "model": "blockstates_random/red_sandstone_all_4" },
+            { "model": "blockstates_random/red_sandstone_all_5" },
+            { "model": "blockstates_random/red_sandstone_all_6" }
+        ]
+    }
+}
