@@ -5,7 +5,8 @@ Credits for the Dandelion With Mods resourcepack:
 -> Spidermas99 for the Biomes o' Plenty and vanilla Minecraft improvements* and the Minecraft Comes Alive (MCA) and Nether Core textures
 -> CPU678 as help for refining and rating textures
 -> RaphZou for the super awesome armor textures
--> Halbzwilling for providing me with the cool command block textures and for helping me a lot with the sea lantern and concrete powder textures!
+-> Halbzwilling for providing me with the cool command block textures (Credit where credit is due: I made the animations :D) and for helping me a lot with the sea lantern and concrete powder textures!
+-> Gamingfail123 for writing a skript to lowercase all ze files! Without him I would've spent weeks lowercasing everything
 
 
 
