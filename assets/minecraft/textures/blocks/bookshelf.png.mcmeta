@@ -1,10 +1,6 @@
 {
     "ctm": {
         "ctm_version": 1,
-        "type": "ctmh",
-        "layer": "solid",
-        "texture": [
-            "minecraft:blocks/bookshelf-ctmh"
-        ]
+        "proxy": "blocks/bookshelf-ctmh"
     }
 }
