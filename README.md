@@ -1,7 +1,16 @@
 # Dandelion With Mods
 A minecraft resourcepack, being a fork of the original Dandelion but having added tons more stuff
 
-### I'll do all the formatting and writing tomorrow, want to have the basic things outta the way first!
+### Don't have the motivation to do this, I will do this sometime later :P
+View the [Curseforge](https://minecraft.curseforge.com/projects/dandelion-with-mods) or [Planetminecraft](https://www.planetminecraft.com/texture_pack/mods-addon-pack-for-dandelion-110/) page for everything you need to know about this!
+
+
+## Installation
+You can either install this Resourcepack by downloading the ZIP-file or if you have [Git](https://git-scm.com/) installed
+move to your `resourcepacks` folder and execute following command
+```
+git clone https://github.com/Hallo89/Dandelion-With-Mods/ "Dandelion With Mods"
+```
 
 ## Licensing
 
