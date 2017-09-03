@@ -1,6 +1,5 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
-    "ambientocclusion": false,
     "textures": {
         "particle": "blocks/bed_foot",
         "frame": "blocks/bed_frame",
