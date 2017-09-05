@@ -23,9 +23,8 @@ checkoutrepo() {
 }
 
 updatelocal() {
-    git clone 
-    git fetch --all
-    git reset --hard origin/master
+    git reset --hard
+    git pull origin master
 }
 
 # Running git --version to check whether git is installed
