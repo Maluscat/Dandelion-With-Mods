@@ -1,0 +1,256 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator and by spicing the capacity up! (http://mrcrayfish.com/modelcreator/)",
+    "elements": [
+        {
+            "name": "Disk main part",
+            "from": [ 9.0, 13.2, 0.25 ],
+            "to":   [ 14.0, 14.8, 6.7 ],
+            "faces": {
+                "up":   { "texture": "#cell", "uv": [ 5.0, 1.0, 0.0, 0.0 ] },
+                "down": { "texture": "#cell", "uv": [ 5.0, 1.0, 0.0, 2.0 ] }
+            }
+        },
+        {
+            "name": "Rotated part bottom",
+            "from": [ 9.0, 13.2, 0.25 ],
+            "to":   [ 14.0, 13.4829, 0.25 ],
+            "rotation": { "origin": [ 11.5, 13.2, 0.25 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 0.0, 3.0, 5.0, 4.5 ] }
+            }
+        },
+        {
+            "name": "Part front",
+            "from": [ 9.0, 13.4, 0.05 ],
+            "to":   [ 14.0, 14.6, 0.2 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 0.0, 2.2, 5.0, 4.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "Rotated part top",
+            "from": [ 9.0, 14.5171, 0.25 ],
+            "to":   [ 14.0, 14.8, 0.25 ],
+            "rotation": { "origin": [ 11.5, 14.8, 0.25 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 0.0, 2.0, 5.0, 3.0 ] }
+            }
+        },
+        {
+            "name": "Lamp",
+            "from": [ 12.775, 14.175, 0.0 ],
+            "to":   [ 12.925, 14.625, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "east":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "west":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "Part left",
+            "from": [ 12.925, 14.325, 0.0 ],
+            "to":   [ 13.075, 14.475, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "east":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "Part right",
+            "from": [ 12.625, 14.325, 0.0 ],
+            "to":   [ 12.775, 14.475, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "west":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "Lamp rotated parts -45",
+            "from": [ 12.925, 14.5195, 0.0 ],
+            "to":   [ 13.138, 14.625, 0.05 ],
+            "rotation": { "origin": [ 12.925, 14.625, 0.05 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12.562, 14.175, 0.0 ],
+            "to":   [ 12.775, 14.2805, 0.05 ],
+            "rotation": { "origin": [ 12.775, 14.175, 0.05 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "Rotated parts 45",
+            "from": [ 12.562, 14.5195, 0.0 ],
+            "to":   [ 12.775, 14.625, 0.05 ],
+            "rotation": { "origin": [ 12.775, 14.625, 0.05 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12.925, 14.175, 0.0 ], 
+            "to":   [ 13.138, 14.2805, 0.05 ], 
+            "rotation": { "origin": [ 12.925, 14.175, 0.05 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 7.0, 1.0, 8.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "2- Lamp",
+            "from": [ 11.425, 14.175, 0.0 ],
+            "to":   [ 11.575, 14.625, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "east":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "west":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "2- Part left",
+            "from": [ 11.575, 14.325, 0.0 ],
+            "to":   [ 11.725, 14.475, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "east":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "2- Part right",
+            "from": [ 11.275, 14.325, 0.0 ],
+            "to":   [ 11.425, 14.475, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "west":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "2- Lamp rotated parts 45",
+            "from": [ 11.212, 14.5195, 0.0 ],
+            "to":   [ 11.425, 14.625, 0.05 ],
+            "rotation": { "origin": [ 11.425, 14.625, 0.05 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "2- Cube",
+            "from": [ 11.575, 14.175, 0.0 ], 
+            "to":   [ 11.788, 14.2805, 0.05 ], 
+            "rotation": { "origin": [ 11.575, 14.175, 0.05 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "2- Lamp rotated parts -45",
+            "from": [ 11.575, 14.5195, 0.0 ],
+            "to":   [ 11.788, 14.625, 0.05 ],
+            "rotation": { "origin": [ 11.575, 14.625, 0.05 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "2- Cube",
+            "from": [ 11.212, 14.175, 0.0 ],
+            "to":   [ 11.425, 14.2805, 0.05 ],
+            "rotation": { "origin": [ 11.425, 14.175, 0.05 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 9.0, 1.0, 10.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "3- Lamp",
+            "from": [ 10.075, 14.175, 0.0 ],
+            "to":   [ 10.225, 14.625, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "east":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "west":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "3- Part left",
+            "from": [ 10.225, 14.325, 0.0 ],
+            "to":   [ 10.375, 14.475, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "east":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "3- Part right",
+            "from": [ 9.925, 14.325, 0.0 ],
+            "to":   [ 10.075, 14.475, 0.05 ],
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "west":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "3- Lamp rotated parts -45",
+            "from": [ 10.225, 14.5195, 0.0 ],
+            "to":   [ 10.438, 14.625, 0.05 ],
+            "rotation": { "origin": [ 10.225, 14.625, 0.05 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "3- Cube",
+            "from": [ 9.862, 14.175, 0.0 ],
+            "to":   [ 10.075, 14.2805, 0.05 ],
+            "rotation": { "origin": [ 10.075, 14.175, 0.05 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "3- Rotated parts 45",
+            "from": [ 9.862, 14.5195, 0.0 ],
+            "to":   [ 10.075, 14.625, 0.05 ],
+            "rotation": { "origin": [ 10.075, 14.625, 0.05 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "up":    { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        },
+        {
+            "name": "3- Cube",
+            "from": [ 10.225, 14.175, 0.0 ], 
+            "to":   [ 10.438, 14.2805, 0.05 ], 
+            "rotation": { "origin": [ 10.225, 14.175, 0.05 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } },
+                "down":  { "texture": "#cell", "uv": [ 11.0, 1.0, 12.0, 2.0 ], "uvlightmap": { "sky": 0.007, "block": 0.007 } }
+            }
+        }
+    ]
+}
