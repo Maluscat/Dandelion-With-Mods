@@ -1,0 +1,610 @@
+~Raw text file of the changelog of my Minecraft resource pack project "Dandelion With Mods"
+~This text file was last updated on: 09/18/17 | 18.09.2017
+~To jump to a desired resource pack version, open [CRTL + F] and type a "#" with a varying number taken out of the following list regarding the different versions;
+--- V. 1.1 . . . . . . .#'01
+--- V. 1.2 . . . . . . .#'02
+--- V. 1.3 . . . . . . .#'03
+--- V.  1.3.1 . . . . . #'04
+--- V. 1.4 . . . . . . .#'05
+--- V.  1.4.1 . . . . . #'06
+--- V.  1.4.2 . . . . . #'07
+--- V.  1.4.3 . . . . . #'08
+--- V. 1.5 . . . . . . .#'09
+--- V.  1.5.1 . . . . . #'10
+--- V. 1.6 . . . . . . .#'11
+--- V. 2.0 . . . . . . .#'12
+--- V. 2.0.9 . . . . . .#'13
+--- V.  2.0.9.1 . . . . #'14
+--- V. 2.1 . . . . . . .#'15
+--- V.  2.1.0.1 . . . . #'16
+--- V. 2.2 | 2.3 | 2.4 .#'17
+--- V. 2.x.001 . . . . .#'18
+
+
+
+
+#18 >>> Update: v. 2.x.001 ---- 8/12/17 | 12.08.2017
+_______
+
+->A small update mainly focusing on getting rid of the anniversary changes whch really weren't that great. I admit it.
+
+
+All versions
+---------------
+
+-Fixed the snowman having no face by adding a face to the pumpking texture. He's so surprised!
+-Fixed the magenta shulker box having one wrong pixel!
+
+-Cleaned the different versions of unused stuff! You will not notice it! Yeynotyey
+
+-Added JEI Bees!
+
+
+1.10
+---------------
+
+JEI
+-----
+-Refined the information "I" by turning it a bit lighter to no longer horribly burn your eyes. Lol.
+
+
+1.11 + 1.12 - modded
+---------------
+
+Forestry
+-----
+-Refined and unified some GUI parts, still unfinished, but it will be done next update! (edit, the one after ;-;)
+
+
+JEI
+-----
+-Got it to work again! Yey!
+-Refined it a lot
+
+
+
+Be aware that 1.11 and 1.12 used for modded are still very unstable!
+
+Also: I've now got a Discord server for this pack, feel very free to join and have fun! I've heard it's cool! Click to join!
+
+
+__________________________
+
+#17 >>> Update: v. 2.2, 2.3 and 2.4 -- The anniversary update! ---- 8/08/17 | 08.08.2017
+_______
+
+->So, yeeaah. I bet you remember the "I hope to get more updates with a shorter delay between them out"? Welp, I am such an unorganized derp, i bet this will never happen, anyway, let's start:
+
+-This pack has now become a bit special: The main and most noticable thing is: it is now divided in 3 branches, one for 1.10, one for 1.11 and one for 1.12, the latter still being mainly for the vanilla people.
+Every branch has its own version number I will stick with until a new minecraft version comes out, I think this is a cool system for a project with multiple branches
+
+-Second: This pack is now present on both Curseforge and Github, and I guess I will roll up my Twitter too, so here you have it, follow me if you are interested. I also personally prefer Curseforge over Planetminecraft due to a more clear arrangement
+
+-It would be really cool if you reported bugs, suggestions and contribute to this pack with Github! Like, trust me, it's just so convenient!
+
+
+-Added some anniversary surprises which I will remove in a few days. Why I did do that? I have no idea.
+
+-Added shulker boxes! Wouh!
+-Added command blocks, completely by Halbzwilling again, I made the animations tho :D
+-Added a proper sea lantern, with the great help of Halbzwilling too!
+-Remastered almost all of the colored blocks, e.g. glass, hardened clay Terracotta meanwhile >_> concrete, and this stuff to make them way more consistent
+-Fixed the iron trapdoor being filled
+-Refined the magma block texture and CTM with both optifine and chisel the CTM-mod
+
+-Remastered the shield!:
+--Added a model
+--Refined the handling a lot to make the game actually playable again when having a shield equipped (lol)
+--Refined the overall display, meaning how it looks on the ground, in an itemframe,...
+->Though: It isn't possible to color it with banners anymore. You have to tell me if this is a problem or not ^^
+-Refined the overall bed display as well!
+->I actually fixed the model having super weird shading (1.10 and 1.11), but I accidently overwrote it apparently, welllppp, that's what Github is for now
+-Refined the entity shadow!
+-Fixed the ugly shading issues of the wodden trapdoor model by removing its smooth lightning affection (and refined the model in general minorily)
+-Refined the overall armor, and made the leather armor leathery
+-Remastered the colormap for grass, meaning how grass looks in the different biomes!
+-Fixed the banner base texture being just wrong
+
+-Added the shulker box GUI too! Finally!
+
+-Refined the boat item textures
+-Added the acacia boat as item (no block yet, sryy :D)
+-Refined the gold chestplate item to look a bit more bored of my unorganizedness
+-Added at least some of the missing armor items (I can't modify the colors, not even with Optifine, I'm sorry)
+
+
+Optifine
+------------
+-Added custom colors for colored sheep!
+-Added custom colors for banner and with that forcingly for maps too! (Ikr, minecraft tho)
+->currently, custom banner textures don't work on 1.12, Optifine needs to update that I guess
+-Imagine you got a really nice cup of tea in your hand. A nice and warm cuppa tea. Your favorite tea. That warmth has the torchlight now too! (lol what was that)
+-Added custom light values for torchlight and the different levels of sunlight ^_^
+-Added atmospheric flickering of torchlight
+
+
+Chisel
+------------
+-Remember when I wrote "fixed the chisel GUI in JEI" some ages ago? Welp, I did fix it, I just didn't include it in the pack, there you go
+-This fix is hotter than hell: updated the Chisel CTM-mod CTM method to make it work properly again. So many changes were made and I still was at the point of 10 years ago, lol
+->seriously tho, why don't you even report an obvious bug like this one? Come on
+
+
+IC2
+------------
+-Added the batch crafter!
+-Refined some minor things
+
+
+__________________________
+
+#16 >>> Update: v. 2.1.0.1 ---- 6/20/17 | 20.06.2017
+_______
+
+->Remember that "textured all popups except one because I didn't know what it does"? Yeeeaah, I remembered.
+->Adding this alongside a few other small but nice features
+
+-New textures available! Check your resourcepack
+-Added the "toast", like Mojang calls it, popout when unlocking new recipes
+-Moved Lapis as item one pixel down
+-Replaced the ugly "L" with a nice lapis outline at the enchanting table GUI
+-Fixed some misplaced pixels at the brewing stand GUI *cough*steelfeathers*cough*
+-Fixed the brewing stand GUI being broken as block. Guess who's fault this is because she doesn't make this pack with love :( tip: **COOUUGHHHH**
+
+
+__________________________
+
+#15 >>> Update: v. 2.1 -- The "Minecraft update overload!" update ---- 6/17/17 | 17.06.2017
+_______
+
+->Soooo, yeah. To not write such a horrendously long text like at the last update, I'll make it short as short as possible: I recently looked over my update history a bit, for fun, and realized... apparently I'm a very.. I dunno, strange? person. In the first months of this pack, I updated really really fast, with smaller content, then the period of time between the updates got longer and longer over time, and here we are, 5 months after the last "officially" big update. I APOLOGIZE. Can we, like, just forget about that? About that massive gap of time? I beg you to!
+With the 1.0.9 update I haven't realized, that it had so much content and that that much content could already have been 2.1, but, whatever, like I said, I apologize so much. I really mean it, I really feel bad.
+->From now on, I will try to make smaller updates, but with a more acceptable period of time between them! :D
+->This update includes almost solely vanilla textures, due to to the massive update overload Minecraft has practiced in the last months.
+->Look at the very bottom of this way-too-large text field for more important information!
+
+-Added the bed textures for the new 16 beds
+->Read the information below to know why no model got added this time (rolls eyes)
+-Added concrete powder
+->Halbzwilling, who is a german youtuber and uses this pack, helped me making the concrete powder textures, aaaand the sea lantern texture coming next update. Teeaaasseeerrr. I made the colors tho :D
+-Remastered the end crystal
+-Remastered concrete textures
+-Changed the mushroom stem texture due to interference with the bone block (I think it fits better anyways)
+-Refined the randomizations of many blocks
+-Randomized grass paths
+-Randomized normal sandstone sides
+-Fixed various sandstone randomizations without texture
+
+-Added the recipe book! Finally, but like I said, I apologize <3
+-Added the advancement textures! Final... okay, I think you got it
+-Added the popouts at the top right hand side of the screen. Almost all. But I didn't know what the remaining one is for. LoL.
+-Added the recipe book icons in crafting table and inventory
+-Added the spectator widgets
+-Added the demo background. Seriously, who. has. ever. used. a. Minecraft. demo. What. The. Actual. Fuck. LoL.
+-Refined the resourcepack-, server- and world "enter" arrows
+->I didn't have the chance to add the GUI for shulker boxes yet, sorry!
+
+-Added the bed model I teasered last update to 1.10 and 1.11
+->Why not 1.12? Well, that's easy to explain: Due to the now 16 existing beds in 1.12, minecraft decided "Hey, why not turn beds into tile entities AND DESTROY HALLO'S DREAMS? SOUNDS LIKE A GREAT IDEA". That maybe was a bit exaggerated, but... it expresses my feelings about it. I'm not even that angry, it's just annoying
+->The head of the bed has weird shading, that's my fault tho (I apologize), this will hopefully hopefully be fixed next update!
+->Next update, Optifine will hopefully be updated to 1.12, and as you surely all know does Optifine have custom entity modelling, so hopefully I will manage to apply my bed model to beds when Optifine is installed! ^_^
+-Fixed the horrible UV bleeding of models! Including fences and cauldrons. Shit that fix was hot.
+->Before you blame me for not being able to model proberly, stop. As (I hope) y'all know, Minecraft is a very inconsistent trash out there. It's fixable so easily, but, weeeellll, did I tell you already that Minecraft is really strange in its new-content and bug-fixing goals? I think I did.
+-Fixed door turning dark when being openend while standing in a doorframe! Shi.... Okaaayyyy
+-Added the spruce door model
+-Added a trapdoor model
+-Refined the birch door by rolling da curtain up!
+-Increased the overall performance of models. Cullfaced the shit outta them!
+
+-Fixed the spectral arrow texture I corrupted last update <_< sorry
+
+-Added { and } :}
+-Added potion effect particles. Wouh ^_^
+
+
+-Added the in the last update added beacon cross and checkmark textures to The One Probe!
+
+-Added at least a bit of Actually Additions (;_; sry): black quartz item
+
+-Overwrote that annoying forced title background from BoP
+-Removed flowering grass due to only the top face being textured and the texture being ugly in general :D
+
+
+As always, this changelog is a massive mess, I don't even blame you if you don't even bother to read it.
+
+Just a few more important information..s. No, Whatever.:
+
+
+-Currently, there's a problem either with Forge or with another mod which turns textures which are rotated by 270 degrees a bit darker than usual. This is veery strange, I'm trying to locate which mod is causing that and then open an issue at Github!
+
+-Speaking of Github, next update, I will open a Github project for this pack. But that is not all, I will also use my Twitter from then on and I will upload this pack to Curseforge for an even more immersive experience! BUY NOW AND GET A SECOND COPY FOR FREE!
+Teleshopping mode OFF
+
+-Also, for all those complaining about still no modded support for 1.11, which is also me, I can say: once Ender IO is either ported or at a pretty good point of getting ported soon, I will definitely update mods to 1.11!
+...Or just next update.
+
+
+__________________________
+
+#14 >>> Update: v. 2.0.9.1 -- A very hot fix ---- 4/29/17 | 29.04.2017
+_______
+
+->Yup, hotfix.
+
+->Somehow all that garbage of the models folder of the original Dandelion landed in my models folder. :V Must've made a mistake:
+-Cleaned out trash from the models folder (Like, believe me, it really is trash)
+
+-As apology, enjoy a remade grass path texture
+
+
+__________________________
+
+#13 >>> Update: v. 2.0.9 -- The "PlanetMinecraft deletes update names and now I don't remember it" update ---- 4/28/17 | 28.04.2017
+_______
+
+->Yeah. I'm tired, so don't expect too much of this changelog. Basically, I'm in a tricky situation right now, regarding this pack. Minecraft does update so quickly that litterally no modder or texturer can keep up with all the changes that are made, so modded Minecraft, at least the biggest mods, are still at 1.10. So that I don't keep talking and don't get to what I want to say: This pack is now updated for vanilla 1.10.x, 1.11.x and 1.12.x but due to missing mods and missing time, I'll get to this in a moment, (yes, this is gonna be a long text, especially when I add such useless parts like this) there's not really 1.11 support for modding yet.
+->The aspect "missing time" is basically that Steelfeathers pushed an update for Dandelion recently, covering the most important parts of 1.11 + 1.12 and due to the vanilla players being at 1.11+ since ages, I really didn't want you to wait any longer, which explains the weird update name, which you may have already wondered about. Another aspect: I wanted to work on (more) other things for 2.1, for example (more) BoP, but then came all that porting stuff and another mod got ported and another one and gah.
+->So: This is basically part 1 of the 2.1 update, which I don't give any ETA on, because I didn't want you to wait for even more ages.
+->How can I write so much at 2:30 AM. Let's begin:
+
+-Added some Biomes o' Plenty.
+->Those few textures took very long, because I couldn't or I think can't really think in a creative way of new blocks
+
+-Added some more vanilla Minecraft particles
+-Added the ping bar when pressing tab,
+-Added the new "crosshair plus"
+-Added the"water armor" icons, whatever this is but it's in the game since 1.9
+->I can't really test the ping bars, ping me (understood? Lol) if it doesn't work
+-Refined the offhand and active slot a bit
+-Fixed the Villager GUI's result slot finally
+-Refined the not-available-trade indicator (Villager GUI) to make it more awesome
+-Added something I don't know to the inventory GUI. Lol.
+
+-Added all missing effect icons (By Steelfeathers!)
+-Added a fancy beacon GUI
+
+-Added (almost) all of Steelfeather's textures of the recent update and tbh modified quite a lot of them. Deal with it.
+
+-Fixed the top of the beacon being derpy by Adding a new beacon top texture
+-Added back redstone + quartz blocks, hehe, sorry
+-Fixed vanilla ores having issues. Hard issues.
+-Refined the barrier
+
+-Added RaphZou's super awesome and insane looking armor textures, also as items
+-Refined rotten flesh
+->RaphZou is cool. Go check him out!
+
+-Added some more door models! Only three and a half to go (only? ._.)
+-Fixed the fence model being a bit derpy in Vanilla but not in Forge
+->1. My models bleed alot in non-optified vanilla, I will eventually get around with a fix, but... just use Optifine, k?
+->2. I was gonna include a fancy-ass bed model, but it turned out not to work (click here to see how it would've looked like) and I had to redo it, I'm not quite finished yet, so it's going to be in the 2.1 update
+
+-Fixed the magma block, glass block and bookshelf being broken as both items and blocks without Chisel (Not glass when connected with Optifine)
+-Added a connected magma block texture via Optifine (and compacted the glass connection textures but that's unnecessary to know)
+
+-Fixed the Chisel GUI
+
+-Fixed the Industrialcraft distiller GUI to an at least acceptable point (Sry q.q)
+-Fixed the fluid/solid canning machine having litterally 6 wrong pixels between toolbar and inventory, hehe
+
+-Fixed the Ender IO power monitor having some leftover pixels at the left arrow
+
+
+--Remember that most of the vanilla textures aren't of my own, Steelfeather's made them-- (And I refined them, hehe)
+
+
+The intended update name was gonna be "Can't keep up! Did the Minecraft staff change, or are the modders and texturers overloaded? Running 3 months behind"
+->You get a virtual cookie if you get that little reference
+
+
+__________________________
+
+#12 >>> Update: v. 2.0 -- The ":o" update ---- 1/20/17 | 20.01.2017
+_______
+
+->Here we go! So, this is the glorious 2.0 update I teased you about. This pack is now a standalone pack, meaning you don't have to use it along another pack anymore! This update highly focuses on improving the vanilla experience, but some stuff for mods has also be done. And Railcraft. Especially Railcraft. The 2 main intentions this update has are: 1) Making the pack standalone and 2) fixing the rail models, preventing lag and refining them
+Let the fun known as changelog begin, and (I hope you) enjoy this update.
+
+-In case you haven't read: This pack is now standalone
+-With that: cleaned a lot of crap which's purpose was to fix things of the vanilla Dandelion pack
+
+-Added a model for every type of rail existing in Railcraft, making them individual and avoiding the massive lag problem this pack was having with rails.
+
+
+-Added a vanilla randomized system, meaning no Optifine or Chisel is required in order to have randomized textures. It's all in vanilla now. I added quite some randomized blocks actually, If you want me to list them all, tell me!
+
+-Overhauled and refined a crap ton of models
+-Added fancy new fence and fence gate models and applied the textures originally intended for them.
+->They caused quite a bit delay of this release due to Minecraft being inconsistent, as we know it
+-Added a model for iron bars
+-Added a model for every type of rail here too
+
+-Added back redstone dust
+->It looks a bit different then it used to, because of Minecraft having changed the way the textures work
+-Refined a few blocks and items in general
+-Added the magma block. It has a connected texture when Chisel is installed. Thanks CPU! <3
+
+-Reworked the luck and badluck icon to apply the color palette and make it a lot nicer
+-Added the shield icon (finally ._. I'm sorry)
+
+
+-Removed the Optifine randomizations for obvious reasons, not needed anymore
+->There is a problem with rails, they look ugly in shade when smooth lighting is enabled. I've got an issue on Optifine's Github open referring to this
+
+-Added individual rail-models for Tinkers' Construct as well!
+-Added back the fancier model of the toolforge and toolstation, I believe it was rollbacked in the last version of this pack, I don't quite know. It was a mistake tho.
+-Added actual consistency: made some of the tables, the chests and casts look better and fitting to the other textures
+
+-Ported RFTools to 1.11. Those textures are also used in the 1.1x versions of RFTools for 1.10
+-Fixed the crafting grid being a bit derpy in the manual
+-Refined and fixed many GUIs. IT WILL NEVER STOP
+
+-Added some GUI consistency for Forestry as well
+-Fixed the fermenter GUI being a bit derpy in JEI
+
+-Refined many GUIs in Ender IO to make them look fresher and not as crappy in JEI.............. yes, you may hit me
+
+-Fixed the slots in the Storage Drawer GUIs not turning dark when the drawer is full
+
+-Fixed the AE2 drive GUI being a bit offset. I thought I fixed this already :|
+
+If you have suggestions of which randomized textures I can additionally add or just have any other suggestions or bug reports, feel free to tell me!
+
+...I'm sorry that this changelog is a mess :D
+
+
+__________________________
+
+#11 >>> Update: v. 1.6 -- The christmas update ---- 12/23/16 | 23.12.2016
+_______
+
+->This is probably the smallest update I've every done. It only adds the christmas versions of chests and double chests. But I also want to write something nice in here: Thanks for all the interest for this pack, I'm having a lot of fun making this myself! :D As you might notice, I'm horrible at saying or writing thanksgiving-things, sorry ;-; All you have to know: thanks! :P
+In 2017, this pack will make a huge change. I am currently working hard at making a lot of changes, including new vanilla textures, new models, new randomized textures with a significant change and the notable performance problem this pack is having with rails will be fixed too! That's all I'll say, probably too much already. Be looking forward to this! :P
+
+So, merry christmas to all celebrating it, to all who don't, I hope will be having a nice time anyways, and a happy new year! :P
+
+
+__________________________
+
+#10 >>> Update: v. 1.5.1 ---- 11/26/16 | 26.11.2016
+_______
+
+->Oops
+
+-Fixed Just Enough Resources' graphs not showing up (except the lapis one sometimes, somehow. Lol)
+
+-Also Refined the info-button at the ic2 nuclear reactor and fluid nuclear reactor, whatever it is called
+
+
+__________________________
+
+#09 >>> Update: v. 1.5 -- The "I'm back! Tbh, who noticed I'm gone?" update ---- 11/26/16 | 26.11.2016
+_______
+
+->Yes! I am back! With me I brought a ton of textures. I didn't intend to be gone this long, but the exams are starting in school in masses, so I haven't had much time in the last weeks at all. The exams are still going, until about the end of the year. I probably won't push out a big update until next year cause of that. But that isn't that long anymore anyways.
+->So, let's start with counting the changes! I may say, this update is probably the biggest one I have ever done and I am super excited about it.
+->Little big information: I need to refine the rails model, it causes a bit of compatibility issues with Railcraft, just so you are aware
+->Also, check out the "Issues and informations" section at this site, for an important information about rails and lag
+
+-Added all Railcraft rails \o/
+-> Not the parts you see on the upgraded ones with kits, but the base of those upgraded ones. Also no GUIs just yet
+
+-Added everything of Storage Drawers! Yes, the drawers themselves too! o/
+->except the upgrade outlines, but I seem to have a problem with my computer or something, everyone can see them, except me
+
+-Added all Applied Energistics 2 GUIs. Also majorly overhauled them! (I made them back in 1.7.10 times)
+-Added a cool-as-**** drive model!
+
+-Majorly overhauled all IC2 GUIs to make them look a LOT more modern! Super excited about this!
+-Refined the resource blocks (copper block,...) to make the colors more balanced
+
+-Added JEIs new GUI. Sorry that you had to wait so long
+
+-Added the indicators when entering a singleplayer world o/
+-Added a not-yet-finished spruce door model
+-Fixed modded doors. This was a vanilla Dandelion bug
+
+-Refined some GUIs in RFTools
+-Refined the builder cards
+-Added the "new" *cough* sorry for being away so long *cough* pump cards
+-Fixed the wrench having a deprecated texture in focus mode
+
+-Began to add connected textures via Chisel
+->Yes, I am aware of Chisel shutting down Optifine's mcpatcher CTM and randomized textures
+
+-Fixed the Foresty bottler and centryfuge GUIs
+
+-Fixed JER and JEFB looking derp in the new JEI
+
+-Fixed the little Ender IO capacitor bank baubles slots derp
+-Refined the GUIs a bit. Yup, I love GUI refinements. don't judge me
+
+-Refined some TiC GUIs. YES DONT JUDGE ME
+-Fixed the toolstation model to not bleed as much. (Model bleeding: flickering of specific parts of the model)
+
+
+__________________________
+
+#08 >>> Update: v. 1.4.3 ---- 10/29/16 | 29.10.2016
+_______
+
+Apparently I'm a very, very dumb person. After 2 months I noticed today that I didn't include Spidermas' textures except the minecraft ones at all. Welp.
+Why didn't I notice this.
+
+-Added Biomes o' Plenty tweaks from Spidermas actually now
+-Added Minecraft Comes Alive from Spidermas actually now
+-Added Nether Core from Spidermas actually now
+
+__________________________
+
+#07 >>> Update: v. 1.4.2 ---- 10/17/16 | 17.10.2016
+_______
+
+->Another quick update to update the Baubles GUI along with some other changes.
+This is also a little status update, because I won't be texturing much in the next few weeks, I have holidays now and want to relax a bit! :D
+As you know, I have been releasing a mass of updates since the release of this pack, and now my creativity has to restore a bit, which is also the reason why the delay between the updates has gotten longer over time. That said, I have also done more stuff in the specific updates to the end.
+This is no message like "please don't hate me", I just wanted to release the last stuff I had lying around and give a lil update.
+Also: next update: Storage Drawers + Railcraft! :D
+Let's begin:
+
+-Added a new model for the oak door (more models coming soon!)
+-Remade the inventory GUI a bit; moved the knobs at the top one pixel down, lol
+-Remade the luck and badluck icons
+
+-Updated Baubles for the latest release
+
+-Overhauled the TiC Toolforge and Toolstation models to not have such monstrosities lying on those tables
+
+-Overhauled all Ender IO GUIs cause I'm a derp
+-Added more widgets
+-Remade the capacitor bank GUI a bit and made the charge-symbols a bit less aggressive
+->The broken baubles slots isn't me, it is coded in Ender IO but has no texture yet, apparently (maybe meanwhile, then I push out an update for that tomorrow or so)
+
+-Remade the IC2 energy storage blocks (e.g. MFSU) charge-symbols to be a bit less aggressive too
+
+-Remade the Forestry Ecristoire GUI for the contrast to be a bit better
+
+
+__________________________
+
+#06 >>> Update: v. 1.4.1 ---- 10/08/16 | 08.10.2016
+_______
+
+->A quick update to update the changed builder GUI in the newest version of RFTools, along with some other stuff, you don't have to download this version if you don't use any of the things listed below:
+
+(-Like I said, updated the RFTools builder)
+
+-Added all new Ender IO GUIs
+-Fixed a derp at the Telepad GUI
+
+-Added the heart outline when regenerating + taking damage now in this pack. Deal with it
+
+-Added Forestry Backpacks
+
+-Reworked the IC2 uranium ore animation to use 2 frames instead of 20 with the same effect, lol
+
+
+__________________________
+
+#05 >>> Update: v.1.4 -- The "Bee happy" update ---- 9/30/16 | 30.09.2016
+_______
+
+->First things first, I managed to replicate the writing Dandelion has in its picture, so here you go, have a nice looking main showcase picture! :D
+->Second, would be nice if you vote at the survey whether a 1.7.10 version of this resourcepack should be made or not. I'm sure you'll find the link to the survey. If not, it's in the describtion
+->So, let's start with the changelog, it's been a month since my last update but that for it's a fairly large amount of content
+
+-Added all Forestry GUIs o/
+-Added several Forestry items. The can is broken. Somehow.
+
+-Added Crafting Tweaks
+
+-Added Better Achievements
+
+-Cleaned up Chisel, nuked everything and
+-Added some of the cobblestone variants \o/
+->Sorry for the lack of Chisel updates in the past, I know that Chisel is like the most unfitting thing when texturepacks are used but I really had no motivation for it. Also, I won't use my old textures. They're horrible
+
+-Added the Minecraft heart-particles when a mob is hit and added swiping 'particles'. Spidermas forgot to take the newer file :D
+-Added an actual boat texture. Other wood variants may come soon
+-Forgot to mention that I added a proper brewing stand GUI last update
+-Fixed connected glass panes (Optifine connected textures)
+->Intended to add a magma block texture but I noticed at the end that it looks horrible
+
+-Remade TiC brownstone
+-Added the new tinker tank and seared furnace GUIs
+-Remade the seared furnace animation when it's enabled
+
+-Fixed IC2 nuclear- and fluid reactor GUIs being a bit out of place and made them look a bit nicer
+-Remade the power bar (at e.g. the MFSU) a bit to make it a bit less eye-cramp
+->I don't think I've mentioned it and whether I've published it last update or not, I overhauled some of the IC2 GUIs. Yes, again. Also, don't hit me for those bad ingot and ore textures please. Will fix them hopefully soon
+
+-Updated JEI
+
+-Updated JEFB. The whole mod doesn't work for me somehow. Maybe it's me, maybe it's the mod. Dunno Works now!
+
+-Updated the Ender IO telepad GUI
+
+-Remade the Ironchest obsidian chest texture a bit
+
+
+__________________________
+
+#04 >>> Update: v.1.3.1 ---- 9/03/16 | 03.09.2016
+_______
+
+Fixed rails from other mods (which are able to make a curve) to show a special element if present when making a curve (e.g. TiC wooden rail with trapdoor)
+Fixed TiC seared furnace when active, no idea how to activate it but it's fixed now
+
+
+__________________________
+
+#03 >>> Update: v. 1.3 -- The "I add ze stuff" update ---- 9/02/16 | 02.09.2016
+_______
+
+-Added textures by Spidermas99 (with his permission), too much to list everything separately:
+-Biomes o' Plenty tweaks
+-Minecraft Comes Alive (MCA) textures
+-Nether Core textures
+-Minecraft tweaks: ->randomized mobs
+->several 1.10 blocks (<-------- Sorry for the weird spacing here, Planetminecraft doesn't like spaces)
+->several items
+->See the credits file in the pack for more info on those vanilla tweaks!
+(A huge thanks to Spidermas for making these textures :) )
+
+-Added models for Minecraft rails! Thanks Spidermas for giving me the idea, he has already made some but I made them again from scratch to improve a lot of stuff. Took a pretty long time ._.
+
+-Remade Botania ingots with a pretty cool animation
+-Added Botania mana diamond with also a pretty cool animation
+
+-Remade the animation of the RFTools charged porter and the advanced one. Looks 1000% better now
+-Finished RFTools screen modules (o/) and the security manager GUI
+-Added RFTools teleport probe
+
+-Remade IC2 copper ore a tiny bit
+-Added IC2 Industrial Diamond
+
+-Added TiC pickaxe silk touch modifier, wooden track with trapdoor, seared furnace (just noticed, the seared furnace has no texture when it's turned on, Will fix that tomorrow most likely)
+-Began TiC slime blocks
+
+-Remade IronChest copper, obsidian and silver chests
+-Added IronChest upgrade items \o/
+
+-Improved JEI-elements: JER villager, TiC casting, botanical brewery, IC2 scrapbox
+
+-Added connected glasspanes (applied with Optifine), forgot them last update, oops
+-Added randomized red sandstone textures (applied with Optifine)
+
+
+__________________________
+
+#02 >>> Update: v. 1.2 -- The "Fixed!" update ---- 8/18/16 | 18.08.2016
+_______
+
+-Finished Ender IO port
+
+-Fixed the models of the fence post, fence gate, glowstone and enchanting table, Dandelion was using a format which got broken in 1.9
+-Overhauled almost all of the IC2 GUIs to make them look better
+-Overhauled the font of minecraft to include a semicolon and some special letters (ß and õ) [I will add some more at some point]
+
+-Edited the wielding of The One Probe and the creative one in the main + offhand and in third person to make it look better 
+-Finished RFTools Charged Porters and advanced versions
+-Added many randomized and connected textures (applied with Optifine), there are strangely 2 different Dandelion packs on the internet and the not-planetminecraft version of them included a bunch of randomized and connected textures which the official pack doesn't have. I took them, refined them and added more variants. [Included: clear and connected glass when in its connected version. If you don't want the glass to be this way, turn connected textures off. That does also disable every other connected texture however. Deal with it.]
+-Added Tinkers' Construct Brownstone
+-Added Tinkers' Construct Slimes
+
+
+__________________________
+
+#01 >>> Update: v. 1.1 -- The "Just enough textures" update ---- 8/09/16 | 09.08.2016
+_______
+
+-Added Just Enough Resources
+-Added Just Enough Forestry Bees
+-Added JEI addon: Block Drops
+-> all 100%
+
+-Fixed several small issues, won't list them here because most likely nobody noticed them anyway
+
+Added an animation for the manasteel ingot (Not finished yet)
+
+(If you want me to go specific on the update logs, tell me :P)
