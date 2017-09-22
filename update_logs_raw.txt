@@ -1,4 +1,4 @@
-~Raw text file of the changelog of my Minecraft resource pack project "Dandelion With Mods"
+﻿~Raw text file of the changelog of my Minecraft resource pack project "Dandelion With Mods"
 ~This text file was last updated on: 09/18/17 | 18.09.2017
 ~To jump to a desired resource pack version, open [CRTL + F] and type a "#" with a varying number taken out of the following list regarding the different versions;
 --- V. 1.1 . . . . . . .#'01
@@ -23,14 +23,14 @@
 
 
 
-#18 >>> Update: v. 2.x.001 ---- 8/12/17 | 12.08.2017
+#18 >>> Update: v. 2.x.01 ---- 8/12/17 | 12.08.2017
 _______
 
 ->A small update mainly focusing on getting rid of the anniversary changes whch really weren't that great. I admit it.
 
 
 All versions
----------------
+------------
 
 -Fixed the snowman having no face by adding a face to the pumpking texture. He's so surprised!
 -Fixed the magenta shulker box having one wrong pixel!
@@ -41,23 +41,20 @@ All versions
 
 
 1.10
----------------
+----
 
-JEI
------
+|JEI|
 -Refined the information "I" by turning it a bit lighter to no longer horribly burn your eyes. Lol.
 
 
 1.11 + 1.12 - modded
----------------
+--------------------
 
-Forestry
------
+|Forestry|
 -Refined and unified some GUI parts, still unfinished, but it will be done next update! (edit, the one after ;-;)
 
 
-JEI
------
+|JEI|
 -Got it to work again! Yey!
 -Refined it a lot
 
@@ -113,8 +110,7 @@ Every branch has its own version number I will stick with until a new minecraft 
 -Added at least some of the missing armor items (I can't modify the colors, not even with Optifine, I'm sorry)
 
 
-Optifine
-------------
+|Optifine|
 -Added custom colors for colored sheep!
 -Added custom colors for banner and with that forcingly for maps too! (Ikr, minecraft tho)
 ->currently, custom banner textures don't work on 1.12, Optifine needs to update that I guess
@@ -123,15 +119,13 @@ Optifine
 -Added atmospheric flickering of torchlight
 
 
-Chisel
-------------
+|Chisel|
 -Remember when I wrote "fixed the chisel GUI in JEI" some ages ago? Welp, I did fix it, I just didn't include it in the pack, there you go
 -This fix is hotter than hell: updated the Chisel CTM-mod CTM method to make it work properly again. So many changes were made and I still was at the point of 10 years ago, lol
 ->seriously tho, why don't you even report an obvious bug like this one? Come on
 
 
-IC2
-------------
+|IC2|
 -Added the batch crafter!
 -Refined some minor things
 
