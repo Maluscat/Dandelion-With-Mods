@@ -1,0 +1,81 @@
+Fixed + Refined the bed model for 1.10 and 1.11 totally! Finally! Pls, stop hitting me now q.q
+ -> also added a cool display (how it is shown in hand, on the ground,...) for it!
+Fixed the not-blocking shield being vanilla in modded due to quark overriding it
+
+Clean up some unused stuff again, saying this ~for awareness~ because you should honor me for doing this!
+Fixed the anniversary water particles not being reverted D:
+I had no idea that the font was _that_ outdated. But it apparently was no problem, since you never reported it, huh?
+ -Updated the font: added a ton of the special versions (`, ´, ^ and so on) of so many letters!
+ -Refined the ß and added the captital one, thanks FlubberFrosch!
+ -By unicoding!
+
+Refined the coal block having unharmonized colors
+Refined the animation of the repeating command block when conditional and normal on the sides!
+Fixed the magenta shulker box having litterally one wrong pixel you aren't even capable of seeing. Lol.
+
+
+|AE2|
+Fixed the security terminal GUI being broken
+Reworked the old (and let's be honest: pretty ugly) drive model a shit ton by spicing it up to no end!
+
+
+|Botania|
+Removed the binding mode wand texture as it was outdated and not really worth being called a texture
+Cleaned up the .mcmeta's. I know nobody is interested in this. I wanted to say it anyway, OK? ;_;
+[1.12] Got it to work again
+
+
+|CTM|
+Fixed the bookshelf not being connected
+
+
+|Ender IO|
+Fixed the arrow in the power monitor loving extra, non-fitting pixels too much (;_; I'm sorry, the poor thing!)
+Refined the inventory panel a bit!
+
+
+|Forestry|
+Refined various GUIs and cleaned things up
+  -- other versions: --
+[1.12] Fixed the greenhouse GUIs by adding the new textures
+[1.11] Fixed the greenhouse GUIs yet again by adding new textures
+ -> note that the 1.11 greenhouse textures aren't really the world's best ones because I haven't really had much time but also will it most likely change in the future and if not,
+    not really many people use the greenhouse anyway, yet in 1.11
+
+
+|IC2|
+Added all GUIs yet again
+ -> didn't pay attention to new or outdated GUIs for quite long
+Refined many GUIs (this took way too long)
+ => It is possible that issues arise in the future as IC2 changes its way of doing GUIs like every version and also love to bring in not-working GUIs just to let them rot for ages.
+    After this ripening process, the usual IC2 tends to change the GUI additional five times in order to not document what it actually does.
+    Meanwhile, they add its icons to the general icon-spreadsheet but decide on using the icon supplied through the actual file anyways
+
+
+|JEI|
+Spiced it up quite a lot:
+Added a new "shapeless recipe" icon
+Added a better color for the information "i"
+  -- other versions: --
+[1.11 + 1.12] Refined the look of the small "next recipe" arrow when hovering the mouse over it
+[1.12] Got the vanilla parts to work again and refined them a bit
+[1.12] Added the "which mod added zis recipe?" indicator, which will possibly get a better icon in the future
+
+
+|JEI Bees|
+Refined it a spicy bit
+
+
+|Quark|
+As mentioned above, fixed the non-blocking shield being overriden by Quark
+  -- other versions: --
+[1.11 + 1.12] Added the shulker box content preview display
+[1.12] Added the chest search bar
+
+
+|Railcraft|
+Fixed the abandoned rail not being a model and being outdated in general! It now connects with high grass when you place it beside it, lol!
+
+
+|Optifine/MCPatcher|
+Refined sugarcane to have a better color in different biomes!
