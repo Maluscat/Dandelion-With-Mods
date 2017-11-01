@@ -1,5 +1,5 @@
 ﻿~Raw text file of the changelog of my Minecraft resource pack project "Dandelion With Mods"
-~This text file was last updated on: 09/18/17 | 18.09.2017
+~This text file was last updated on: 11/01/17 | 01.11.2017
 ~To jump to a desired resource pack version, open [CRTL + F] and type a "#" with a varying number taken out of the following list regarding the different versions;
 --- V. 1.1 . . . . . . .#'01
 --- V. 1.2 . . . . . . .#'02
@@ -20,7 +20,20 @@
 --- V. 2.2 | 2.3 | 2.4 .#'17
 --- V. 2.x.01 . . . . . #'18
 --- V. 2.x.02 . . . . . #'19
+--- V. 2.5.01 . . . . . #'20
 
+
+#20 >>> Update: v. 2.5.01 ---- 11/01/17 | 01.11.2017
+_______
+
+-> Very small but very important fix:
+
+Fixed glass, bookshelves and magma blocks being broken (in vanilla, what else) because Mojang thinks ignoring the modded community further and stronger is a great idea.
+
+-> No content update unfortunately, I am currently pretty lazy, forgive me :P
+
+
+__________________________
 
 #19 >>> Update: v. 2.x.02 -- The "Fixed! #2" update ---- 9/23/17 | 23.09.2017
 _______
@@ -109,6 +122,8 @@ Fixed the abandoned rail not being a model and being outdated in general! It now
 |Optifine/MCPatcher|
 Refined sugarcane to have a better color in different biomes!
 
+
+__________________________
 
 #18 >>> Update: v. 2.x.01 ---- 8/12/17 | 12.08.2017
 _______
@@ -667,7 +682,7 @@ _______
 -Overhauled almost all of the IC2 GUIs to make them look better
 -Overhauled the font of minecraft to include a semicolon and some special letters (ß and õ) [I will add some more at some point]
 
--Edited the wielding of The One Probe and the creative one in the main + offhand and in third person to make it look better 
+-Edited the wielding of The One Probe and the creative one in the main + offhand and in third person to make it look better
 -Finished RFTools Charged Porters and advanced versions
 -Added many randomized and connected textures (applied with Optifine), there are strangely 2 different Dandelion packs on the internet and the not-planetminecraft version of them included a bunch of randomized and connected textures which the official pack doesn't have. I took them, refined them and added more variants. [Included: clear and connected glass when in its connected version. If you don't want the glass to be this way, turn connected textures off. That does also disable every other connected texture however. Deal with it.]
 -Added Tinkers' Construct Brownstone
