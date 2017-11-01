@@ -6,5 +6,6 @@
         "textures": [
             "minecraft:blocks/magma-ctm"
         ]
-    }
+    },
+    "animation": {}
 }
