@@ -1,7 +1,7 @@
 # Dandelion With Mods
 A minecraft resourcepack, being a fork of the original Dandelion but having added tons more stuff
 
-### Don't have the motivation to do this, I will do this sometime later :P
+### Don't have the motivation to do this, I will do this ~sometime later :P~ probably never. Lawl
 View the [Curseforge](https://minecraft.curseforge.com/projects/dandelion-with-mods) or [Planetminecraft](https://www.planetminecraft.com/texture_pack/mods-addon-pack-for-dandelion-110/) page for everything you need to know about this!
 
 
