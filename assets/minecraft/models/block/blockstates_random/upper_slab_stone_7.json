@@ -1,8 +1,0 @@
-{
-    "parent": "block/upper_slab",
-    "textures": {
-        "bottom": "blocks/blockstates_random_textures/stone_slab_top_7",
-        "top": "blocks/blockstates_random_textures/stone_slab_top_7",
-        "side": "blocks/stone_slab_side"
-    }
-}

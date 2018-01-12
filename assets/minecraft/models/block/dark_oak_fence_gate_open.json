@@ -1,6 +1,0 @@
-{
-    "parent": "block/parents/fence_gate_open_dandelion",
-    "textures": {
-        "fence": "blocks/fence_gate_darkoak"
-    }
-}
