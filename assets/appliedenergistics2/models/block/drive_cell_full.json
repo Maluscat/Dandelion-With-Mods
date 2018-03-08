@@ -1,6 +1,0 @@
-{
-    "parent": "appliedenergistics2:block/cell_parent",
-    "textures": {
-        "cell": "appliedenergistics2:blocks/drive_cell_full"
-    }
-}

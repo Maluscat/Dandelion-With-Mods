@@ -1,5 +1,5 @@
 {
-    "parent": "block/parents/rail_flat_dandelion",
+    "parent": "block/rail_flat",
     "textures": {
         "rail": "blocks/rail_normal"
     }

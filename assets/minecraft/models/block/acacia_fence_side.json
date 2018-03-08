@@ -1,6 +1,7 @@
 {
-    "parent": "block/parents/fence_side_dandelion",
+    "parent": "block/fence_side_dandelion",
     "textures": {
-        "fence": "blocks/fence_side_acacia_wtf"
+        "texture": "blocks/fence_acacia",
+        "texture_rail": "blocks/fence_acacia_rail"
     }
 }

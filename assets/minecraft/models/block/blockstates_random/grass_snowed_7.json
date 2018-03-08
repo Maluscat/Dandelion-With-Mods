@@ -1,9 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "particle": "blocks/blockstates_random_textures/grass_side_snowed_7",
-        "bottom": "blocks/blockstates_random_textures/dirt_4",
-        "top": "blocks/blockstates_random_textures/grass_top_3",
-        "side": "blocks/blockstates_random_textures/grass_side_snowed_7"
-    }
-}

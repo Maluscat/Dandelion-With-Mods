@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_post_dandelion",
+    "textures": {
+        "texture": "blocks/nether_brick",
+        "texture_top": "blocks/fence_nether_top"
+    }
+}
