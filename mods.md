@@ -4,11 +4,12 @@
 |actuallyadditions| 
 |appliedenergistics2| 
 |baubles| 
-|betterachievements| 
+|betteradvancements| 
 |biomesoplenty| 
 |blockdrops| 
 |botania| 
 |chisel| 
+|cofh| 
 |craftingtweaks| 
 |enderio| 
 |forestry| 
@@ -28,4 +29,5 @@
 |storagedrawers| 
 |tconstruct| 
 |theoneprobe| 
+|thermalexpansion| 
 |trashslot| 
