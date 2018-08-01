@@ -6,11 +6,11 @@
     "elements": [
         {
             "name": "Upper inner part",
-            "from": [ 7.4, 12.7, 1.0 ], 
-            "to":   [ 8.6, 14.3, 5.2 ], 
+            "from": [ 7.25, 12.7, 1.0 ], 
+            "to":   [ 8.75, 14.3, 5.2 ], 
             "faces": {
-                "east": { "texture": "#fence", "uv": [ 11.0, 8.0, 15.0, 9.0] },
-                "west": { "texture": "#fence", "uv": [ 1.0, 8.0, 5, 9.0] }
+                "east": { "texture": "#fence", "uv": [ 11.0, 7.7, 15.0, 9.3 ] },
+                "west": { "texture": "#fence", "uv": [ 1.0, 7.7, 5.0, 9.3 ] }
             }
         },
         {
@@ -18,7 +18,6 @@
             "from": [ 7.0, 12.0, 5.2 ], 
             "to":   [ 9.0, 15.0, 6.4 ], 
             "faces": {
-                "north": { "texture": "#fence", "uv": [ 4.0, 7.0, 5.0, 10.0 ] },
                 "east":  { "texture": "#fence", "uv": [ 10.0, 7.0, 11.0, 10.0 ] },
                 "west":  { "texture": "#fence", "uv": [ 5.0, 7.0, 6.0, 10.0 ] },
                 "up":    { "texture": "#fence", "uv": [ 4.0, 4.0, 5.0, 5.0 ], "rotation": 270 },
@@ -38,12 +37,11 @@
         },
         {
             "name": "Upper cap left",
-            "from": [ 7.0, 12.0, 0.0 ], 
-            "to":   [ 9.0, 15.0, 1.0 ], 
+            "from": [ 7.0, 12.0, 0.0 ],
+            "to":   [ 9.0, 15.0, 1.0 ],
             "faces": {
                 "north": { "texture": "#fence", "uv": [ 0.0, 7.0, 1.0, 10.0 ], "cullface": "north" },
                 "east":  { "texture": "#fence", "uv": [ 15.0, 7.0, 16.0, 10.0 ] },
-                "south": { "texture": "#fence", "uv": [ 0.0, 7.0, 1.0, 10.0 ] },
                 "west":  { "texture": "#fence", "uv": [ 0.0, 7.0, 1.0, 10.0 ] },
                 "up":    { "texture": "#fence", "uv": [ 1.0, 13.0, 2.0, 14.0 ] },
                 "down":  { "texture": "#fence", "uv": [ 0.0, 9.0, 1.0, 10.0 ] }
@@ -51,8 +49,8 @@
         },
         {
             "name": "Upper cap bottom",
-            "from": [ 7.0, 12.0, 1.0 ], 
-            "to":   [ 9.0, 12.7, 5.2 ], 
+            "from": [ 7.0, 12.0, 1.0 ],
+            "to":   [ 9.0, 12.7, 5.2 ],
             "faces": {
                 "east": { "texture": "#fence", "uv": [ 11.0, 9.0, 15.0, 10.0 ] },
                 "west": { "texture": "#fence", "uv": [ 1.0, 9.0, 5.0, 10.0 ] },
@@ -61,12 +59,48 @@
             }
         },
         {
-            "name": "Lower inner part",
-            "from": [ 7.4, 6.7, 1.0 ], 
-            "to":   [ 8.6, 8.3, 5.2 ], 
+            "name": "Upper west rotation south",
+            "from": [ 7.0, 12.7, 4.4 ],
+            "to":   [ 7.0, 14.3, 5.2 ],
+            "rotation": { "origin": [ 7.0, 11.0, 5.2 ], "axis": "y", "angle": -45.0 },
             "faces": {
-                "east": { "texture": "#fence", "uv": [ 11.0, 8.0, 15.0, 9.0] },
-                "west": { "texture": "#fence", "uv": [ 1.0, 8.0, 5, 9.0] }
+                "west": { "texture": "#fence", "uv": [ 4.0, 7.7, 5.0, 9.3 ] }
+            }
+        },
+        {
+            "name": "Upper west rotation north",
+            "from": [ 7.0, 12.7, 1.0 ],
+            "to":   [ 7.0, 14.3, 1.8 ],
+            "rotation": { "origin": [ 7.0, 11.0, 1 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "west": { "texture": "#fence", "uv": [ 1.0, 7.7, 2.0, 9.3 ] }
+            }
+        },
+        {
+            "name": "Upper east rotation south",
+            "from": [ 9.0, 12.7, 4.4 ],
+            "to":   [ 9.0, 14.3, 5.2 ],
+            "rotation": { "origin": [ 9.0, 11.0, 5.2 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#fence", "uv": [ 11.0, 7.7, 12.0, 9.3 ] }
+            }
+        },
+        {
+            "name": "Upper east rotation north",
+            "from": [ 9.0, 12.7, 1.0 ],
+            "to":   [ 9.0, 14.3, 1.8 ],
+            "rotation": { "origin": [ 9.0, 11.0, 1 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#fence", "uv": [ 14.0, 7.7, 15.0, 9.3 ] }
+            }
+        },
+        {
+            "name": "Lower inner part",
+            "from": [ 7.25, 6.7, 1.0 ],
+            "to":   [ 8.75, 8.3, 5.2 ],
+            "faces": {
+                "east": { "texture": "#fence", "uv": [ 11.0, 7.7, 15.0, 9.3 ] },
+                "west": { "texture": "#fence", "uv": [ 1.0, 7.7, 5.0, 9.3 ] }
             }
         },
         {
@@ -74,7 +108,6 @@
             "from": [ 7.0, 6.0, 5.2 ], 
             "to":   [ 9.0, 9.0, 6.4 ], 
             "faces": {
-                "north": { "texture": "#fence", "uv": [ 4.0, 7.0, 5.0, 10.0 ] },
                 "east":  { "texture": "#fence", "uv": [ 10.0, 7.0, 11.0, 10.0 ] },
                 "west":  { "texture": "#fence", "uv": [ 5.0, 7.0, 6.0, 10.0 ] },
                 "up":    { "texture": "#fence", "uv": [ 4.0, 4.0, 5.0, 5.0 ], "rotation": 270 },
@@ -99,7 +132,6 @@
             "faces": {
                 "north": { "texture": "#fence", "uv": [ 0.0, 7.0, 1.0, 10.0 ], "cullface": "north" },
                 "east":  { "texture": "#fence", "uv": [ 15.0, 7.0, 16.0, 10.0 ] },
-                "south": { "texture": "#fence", "uv": [ 0.0, 7.0, 1.0, 10.0 ] },
                 "west":  { "texture": "#fence", "uv": [ 0.0, 7.0, 1.0, 10.0 ] },
                 "up":    { "texture": "#fence", "uv": [ 1.0, 13.0, 2.0, 14.0 ] },
                 "down":  { "texture": "#fence", "uv": [ 0.0, 9.0, 1.0, 10.0 ] }
@@ -114,6 +146,42 @@
                 "west": { "texture": "#fence", "uv": [ 1.0, 9.0, 5.0, 10.0 ] },
                 "up":   { "texture": "#fence", "uv": [ 1.0, 5.0, 2.0, 6.0 ] },
                 "down": { "texture": "#fence", "uv": [ 1.0, 9.0, 2.0, 10.0 ] }
+            }
+        },
+        {
+            "name": "Lower west rotation south",
+            "from": [ 7.0, 6.7, 4.4 ],
+            "to":   [ 7.0, 8.3, 5.2 ],
+            "rotation": { "origin": [ 7.0, 11.0, 5.2 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "west": { "texture": "#fence", "uv": [ 4.0, 7.7, 5.0, 9.3 ] }
+            }
+        },
+        {
+            "name": "Lower west rotation north",
+            "from": [ 7.0, 6.7, 1.0 ],
+            "to":   [ 7.0, 8.3, 1.8 ],
+            "rotation": { "origin": [ 7.0, 11.0, 1 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "west": { "texture": "#fence", "uv": [ 1.0, 7.7, 2.0, 9.3 ] }
+            }
+        },
+        {
+            "name": "Lower east rotation south",
+            "from": [ 9.0, 6.7, 4.4 ],
+            "to":   [ 9.0, 8.3, 5.2 ],
+            "rotation": { "origin": [ 9.0, 11.0, 5.2 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#fence", "uv": [ 11.0, 7.7, 12.0, 9.3 ] }
+            }
+        },
+        {
+            "name": "Lower east rotation north",
+            "from": [ 9.0, 6.7, 1.0 ],
+            "to":   [ 9.0, 8.3, 1.8 ],
+            "rotation": { "origin": [ 9.0, 11.0, 1 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#fence", "uv": [ 14.0, 7.7, 15.0, 9.3 ] }
             }
         }
     ]
