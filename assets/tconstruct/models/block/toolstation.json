@@ -1,6 +1,6 @@
 {
+    "parent": "block/block",
 	"__comment": "Model generated using MrCrayfish's Model Creator and by editing this file (http://mrcrayfish.com/modelcreator/)",
-"ambientocclusion": false,
 	"textures": {
 		"particle": "tconstruct:blocks/table_side",
 		"0": "tconstruct:blocks/table_side",

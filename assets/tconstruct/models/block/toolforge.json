@@ -1,10 +1,12 @@
 {
+    "parent": "block/block",
+	"__comment": "Model generated using MrCrayfish's Model Creator and by editing this file (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-            "particle": "minecraft:blocks/iron_block",
-            "0": "tconstruct:blocks/toolforge_top",
-            "bottom": "minecraft:blocks/iron_block",
-            "leg": "minecraft:blocks/iron_block",
-            "legBottom": "minecraft:blocks/iron_block"
+        "particle": "minecraft:blocks/iron_block",
+        "0": "tconstruct:blocks/toolforge_top",
+        "bottom": "minecraft:blocks/iron_block",
+        "leg": "minecraft:blocks/iron_block",
+        "legBottom": "minecraft:blocks/iron_block"
     },
     "elements": [
         {
