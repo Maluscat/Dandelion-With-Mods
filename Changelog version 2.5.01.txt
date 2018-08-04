@@ -1,0 +1,5 @@
+-> Very small but very important fix:
+
+Fixed glass, bookshelves and magma blocks being broken (in vanilla, what else) because Mojang thinks ignoring the modded community further and stronger is a great idea.
+
+-> No content update unfortunately, I am currently pretty lazy, forgive me :P
