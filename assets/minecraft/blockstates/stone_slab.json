@@ -1,26 +1,27 @@
 {
     "variants": {
-        "half=bottom": [
-            { "model": "half_slab_stone" },
-            { "model": "blockstates_random/half_slab_stone_1" },
-            { "model": "blockstates_random/half_slab_stone_2" },
-            { "model": "blockstates_random/half_slab_stone_3" },
-            { "model": "blockstates_random/half_slab_stone_4" },
-            { "model": "blockstates_random/half_slab_stone_5" },
-            { "model": "blockstates_random/half_slab_stone_6" },
-            { "model": "blockstates_random/half_slab_stone_7" },
-            { "model": "blockstates_random/half_slab_stone_8" }
+        "type=bottom": [
+            { "model": "block/stone_slab" },
+            { "model": "block/blockstates_random/stone_slab_1" },
+            { "model": "block/blockstates_random/stone_slab_2" },
+            { "model": "block/blockstates_random/stone_slab_3" },
+            { "model": "block/blockstates_random/stone_slab_4" },
+            { "model": "block/blockstates_random/stone_slab_5" },
+            { "model": "block/blockstates_random/stone_slab_6" },
+            { "model": "block/blockstates_random/stone_slab_7" },
+            { "model": "block/blockstates_random/stone_slab_8" }
         ],
-        "half=top": [
-            { "model": "upper_slab_stone" },
-            { "model": "blockstates_random/upper_slab_stone_1" },
-            { "model": "blockstates_random/upper_slab_stone_2" },
-            { "model": "blockstates_random/upper_slab_stone_3" },
-            { "model": "blockstates_random/upper_slab_stone_4" },
-            { "model": "blockstates_random/upper_slab_stone_5" },
-            { "model": "blockstates_random/upper_slab_stone_6" },
-            { "model": "blockstates_random/upper_slab_stone_7" },
-            { "model": "blockstates_random/upper_slab_stone_8" }
-        ]
+        "type=top": [
+            { "model": "block/stone_slab_top" },
+            { "model": "block/blockstates_random/stone_slab_top_1" },
+            { "model": "block/blockstates_random/stone_slab_top_2" },
+            { "model": "block/blockstates_random/stone_slab_top_3" },
+            { "model": "block/blockstates_random/stone_slab_top_4" },
+            { "model": "block/blockstates_random/stone_slab_top_5" },
+            { "model": "block/blockstates_random/stone_slab_top_6" },
+            { "model": "block/blockstates_random/stone_slab_top_7" },
+            { "model": "block/blockstates_random/stone_slab_top_8" }
+        ],
+        "type=double": { "model": "block/stone_slab_double" }
     }
 }

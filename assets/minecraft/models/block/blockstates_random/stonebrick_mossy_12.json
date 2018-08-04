@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/blockstates_random_textures/stonebrick_mossy_12"
+        "all": "block/blockstates_random_textures/mossy_stone_bricks_12"
     }
 }

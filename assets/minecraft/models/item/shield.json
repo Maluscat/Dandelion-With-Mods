@@ -47,10 +47,10 @@
     "__comment": "Model generated using MrCrayfish's Model Creator and by adding hot sloppeeesssssss. Fresh outta the oven! (http://mrcrayfish.com/modelcreator/)",
     "ambientocclusion": false,
     "textures": {
-        "lower": "blocks/shield_front.back_lower",
-        "front": "blocks/shield_front_upper",
-        "back": "blocks/shield_back_upper",
-        "handle": "blocks/shield_handle"
+        "lower": "block/shield_front.back_lower",
+        "front": "block/shield_front_upper",
+        "back": "block/shield_back_upper",
+        "handle": "block/shield_handle"
     },
     "elements": [
         {

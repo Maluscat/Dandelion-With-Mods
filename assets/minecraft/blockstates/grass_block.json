@@ -1,0 +1,37 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/grass_block" },
+            { "model": "block/grass_block", "y": 90 },
+            { "model": "block/grass_block", "y": 180 },
+            { "model": "block/grass_block", "y": 270 },
+            { "model": "block/blockstates_random/grass_block_1" },
+            { "model": "block/blockstates_random/grass_block_1", "y": 90 },
+            { "model": "block/blockstates_random/grass_block_1", "y": 180 },
+            { "model": "block/blockstates_random/grass_block_1", "y": 270 },
+            { "model": "block/blockstates_random/grass_block_2" },
+            { "model": "block/blockstates_random/grass_block_2", "y": 90 },
+            { "model": "block/blockstates_random/grass_block_2", "y": 180 },
+            { "model": "block/blockstates_random/grass_block_2", "y": 270 },
+            { "model": "block/blockstates_random/grass_block_3" },
+            { "model": "block/blockstates_random/grass_block_3", "y": 90 },
+            { "model": "block/blockstates_random/grass_block_3", "y": 180 },
+            { "model": "block/blockstates_random/grass_block_3", "y": 270 },
+            { "model": "block/blockstates_random/grass_block_4" },
+            { "model": "block/blockstates_random/grass_block_4", "y": 90 },
+            { "model": "block/blockstates_random/grass_block_4", "y": 180 },
+            { "model": "block/blockstates_random/grass_block_4", "y": 270 }
+        ],
+        "snowy=true": [
+            { "model": "block/grass_block_snow" },
+            { "model": "block/blockstates_random/grass_block_snow_1" },
+            { "model": "block/blockstates_random/grass_block_snow_2" },
+            { "model": "block/blockstates_random/grass_block_snow_3" },
+            { "model": "block/blockstates_random/grass_block_snow_4" },
+            { "model": "block/blockstates_random/grass_block_snow_5" },
+            { "model": "block/blockstates_random/grass_block_snow_6" },
+            { "model": "block/blockstates_random/grass_block_snow_7" },
+            { "model": "block/blockstates_random/grass_block_snow_8" }
+        ]
+    }
+}

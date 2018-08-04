@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator and by deleting useless spaces in this file (http://mrcrayfish.com/modelcreator/)",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/door_acacia_upper",
-        "door": "blocks/door_acacia_upper"
+        "particle": "block/acacia_door_top",
+        "door": "block/acacia_door_top"
     },
     "elements": [
         {
@@ -42,7 +42,7 @@
             }
         },
         {
-            "name": "Upper vertical middle strip",
+            "name": "top vertical middle strip",
             "from": [ 0.5, 8.0, 7.0 ],
             "to":   [ 2.5, 13.0, 9.0 ],
             "faces": {
@@ -53,7 +53,7 @@
             }
         },
         {
-            "name": "Lower vertical middle strip",
+            "name": "bottom vertical middle strip",
             "from": [ 0.5, 1.0, 7.0 ],
             "to":   [ 2.5, 6.0, 9.0 ],
             "faces": {
@@ -64,7 +64,7 @@
             }
         },
         {
-            "name": "Upper horizontal middle strip",
+            "name": "top horizontal middle strip",
             "from": [ 0.4, 6.0, 3.0 ],
             "to":   [ 2.6, 8.0, 13.0 ],
             "faces": {
@@ -75,7 +75,7 @@
             }
         },
         {
-            "name": "Lower horizontal middle strip top half",
+            "name": "bottom horizontal middle strip top half",
             "from": [ 0.4, 0.0, 3.0 ],
             "to":   [ 2.6, 1.0, 13.0 ],
             "faces": {

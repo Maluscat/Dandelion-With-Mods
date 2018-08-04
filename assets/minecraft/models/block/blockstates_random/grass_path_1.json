@@ -1,9 +1,9 @@
 {
-    "parent": "block/parents/almost_full_block",
+    "parent": "block/parent/almost_full_block",
     "textures": {
-        "particle": "blocks/blockstates_random_textures/grass_path_side_1",
-        "bottom": "blocks/blockstates_random_textures/dirt_2",
-        "side": "blocks/blockstates_random_textures/grass_path_side_1",
-        "top": "blocks/blockstates_random_textures/grass_path_top_1"
+        "particle": "block/blockstates_random_textures/grass_path_side_1",
+        "bottom": "block/blockstates_random_textures/dirt_2",
+        "side": "block/blockstates_random_textures/grass_path_side_1",
+        "top": "block/blockstates_random_textures/grass_path_top_1"
     }
 }

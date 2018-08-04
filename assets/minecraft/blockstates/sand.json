@@ -1,12 +1,12 @@
 {
     "variants": {
-        "normal": [
-            { "model": "sand", "weight": 6 },
-            { "model": "blockstates_random/sand_1", "weight": 6 },
-            { "model": "blockstates_random/sand_2", "weight": 6 },
-            { "model": "blockstates_random/sand_3", "weight": 5 },
-            { "model": "blockstates_random/sand_4" },
-            { "model": "blockstates_random/sand_5", "weight": 3 }
+        "": [
+            { "model": "block/sand", "weight": 6 },
+            { "model": "block/blockstates_random/sand_1", "weight": 6 },
+            { "model": "block/blockstates_random/sand_2", "weight": 6 },
+            { "model": "block/blockstates_random/sand_3", "weight": 5 },
+            { "model": "block/blockstates_random/sand_4" },
+            { "model": "block/blockstates_random/sand_5", "weight": 3 }
         ]
     }
 }

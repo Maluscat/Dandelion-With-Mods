@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator and by listening to this music: https://www.youtube.com/watch?v=qXx6X5eZtuY (http://mrcrayfish.com/modelcreator/)",
     "ambientocclusion": false,
 	"textures": {
-        "particle": "blocks/door_birch_lower",
-        "door": "blocks/door_birch_lower"
+        "particle": "block/birch_door_bottom",
+        "door": "block/birch_door_bottom"
     },
     "elements": [
         {

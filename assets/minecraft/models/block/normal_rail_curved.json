@@ -1,6 +1,0 @@
-{
-    "parent": "block/parents/rail_curved_dandelion",
-    "textures": {
-        "rail": "blocks/rail_normal_turned"
-    }
-}

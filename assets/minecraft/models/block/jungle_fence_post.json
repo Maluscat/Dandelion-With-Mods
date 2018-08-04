@@ -1,6 +1,6 @@
 {
-    "parent": "block/parents/fence_post_dandelion",
+    "parent": "block/parent/fence_post_dandelion",
     "textures": {
-        "fence": "blocks/fence_post_jungle"
+        "fence": "block/jungle_fence_post"
     }
 }

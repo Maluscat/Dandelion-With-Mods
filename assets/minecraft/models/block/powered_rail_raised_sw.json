@@ -1,0 +1,185 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator and by editing this file. Steelfeathers is cool. (http://mrcrayfish.com/modelcreator/)",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "block/powered_rail",
+        "rail": "block/rail",
+        "rail_special": "block/powered_rail"
+    },
+    "elements": [
+        {
+            "name": "Rail strip right",
+            "from": [ 12.001, 8.0, -3.314 ],
+            "to":   [ 13.999, 10.0, 20.142 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 14.0, 0.0, 12.0, 1.0 ] },
+                "east":  { "texture": "#rail", "uv": [ 13.0, 0.0, 14.0, 16.0 ], "rotation": 90 },
+                "south": { "texture": "#rail", "uv": [ 12.0, 15.0, 14.0, 16.0 ] },
+                "west":  { "texture": "#rail", "uv": [ 13.0, 16.0, 12.0, 0.0 ], "rotation": 90 },
+                "up":    { "texture": "#rail", "uv": [ 12.0, 0.0, 14.0, 16.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 12.0, 16.0, 14.0, 0.0 ] }
+            }
+        },
+        {
+            "name": "Rail strip left",
+            "from": [ 2.001, 8.0, -3.314 ],
+            "to":   [ 3.999, 10.0, 20.142 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 4.0, 0.0, 2.0, 1.0 ] },
+                "east":  { "texture": "#rail", "uv": [ 4.0, 0.0, 3.0, 16.0 ], "rotation": 90 },
+                "south": { "texture": "#rail", "uv": [ 2.0, 15.0, 4.0, 16.0 ] },
+                "west":  { "texture": "#rail", "uv": [ 2.0, 16.0, 3.0, 0.0 ], "rotation": 90 },
+                "up":    { "texture": "#rail", "uv": [ 2.0, 0.0, 4.0, 16.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 2.0, 16.0, 4.0, 0.0 ] }
+            }
+        },
+        {
+            "name": "Wooden part middle top",
+            "from": [ 4.0, 8.0, 3.0 ],
+            "to":   [ 12.0, 9.0, 7.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 12.0, 2.0, 4.0, 3.0 ] },
+                "south": { "texture": "#rail", "uv": [ 4.0, 5.0, 12.0, 6.0 ] },
+                "up":    { "texture": "#rail", "uv": [ 4.0, 2.0, 12.0, 6.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 4.0, 6.0, 12.0, 2.0 ] }
+            }
+        },
+        {
+            "name": "Wooden part middle bottom",
+            "from": [ 4.0, 8.0, 11.0 ],
+            "to":   [ 12.0, 9.0, 15.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 12.0, 10.0, 4.0, 11.0 ] },
+                "south": { "texture": "#rail", "uv": [ 4.0, 13.0, 12.0, 14.0 ] },
+                "up":    { "texture": "#rail", "uv": [ 4.0, 10.0, 12.0, 14.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 4.0, 14.0, 12.0, 10.0 ] }
+            }
+        },
+        {
+            "name": "Wooden part outer top left",
+            "from": [ 1.0, 8.0, 3.0 ],
+            "to":   [ 2.0, 9.0, 7.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 2.0, 2.0, 1.0, 3.0 ] },
+                "south": { "texture": "#rail", "uv": [ 1.0, 5.0, 2.0, 6.0 ] },
+                "west":  { "texture": "#rail", "uv": [ 1.0, 6.0, 2.0, 2.0 ], "rotation": 90 },
+                "up":    { "texture": "#rail", "uv": [ 1.0, 2.0, 2.0, 6.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 1.0, 6.0, 2.0, 2.0 ] }
+            }
+        },
+        {
+            "name": "Wooden part outer top right",
+            "from": [ 14.0, 8.0, 3.0 ],
+            "to":   [ 15.0, 9.0, 7.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 1.0, 13.0, 2.0, 14.0 ] },
+                "east":  { "texture": "#rail", "uv": [ 1.0, 14.0, 2.0, 10.0 ], "rotation": 90 },
+                "south": { "texture": "#rail", "uv": [ 1.0, 10.0, 2.0, 11.0 ] },
+                "up":    { "texture": "#rail", "uv": [ 2.0, 14.0, 1.0, 10.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 1.0, 10.0, 2.0, 14.0 ] }
+            }
+        },
+        {
+            "name": "Wooden part outer bottom right",
+            "from": [ 14.0, 8.0, 11.0 ],
+            "to":   [ 15.0, 9.0, 15.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 1.0, 5.0, 2.0, 6.0 ] },
+                "east":  { "texture": "#rail", "uv": [ 1.0, 6.0, 2.0, 2.0 ], "rotation": 90 },
+                "south": { "texture": "#rail", "uv": [ 1.0, 2.0, 2.0, 3.0 ] },
+                "up":    { "texture": "#rail", "uv": [ 1.0, 6.0, 2.0, 2.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 1.0, 2.0, 2.0, 6.0 ] }
+            }
+        },
+        {
+            "name": "Wooden part outer bottom left",
+            "from": [ 1.0, 8.0, 11.0 ],
+            "to":   [ 2.0, 9.0, 15.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail", "uv": [ 14.0, 5.0, 15.0, 6.0 ] },
+                "south": { "texture": "#rail", "uv": [ 14.0, 2.0, 15.0, 3.0 ] },
+                "west":  { "texture": "#rail", "uv": [ 14.0, 2.0, 15.0, 6.0 ], "rotation": 90 },
+                "up":    { "texture": "#rail", "uv": [ 14.0, 6.0, 15.0, 2.0 ] },
+                "down":  { "texture": "#rail", "uv": [ 14.0, 2.0, 15.0, 6.0 ] }
+            }
+        },
+        {
+            "name": "Connecting knob left",
+            "from": [ 12.001, 16.8, 15.171 ],
+            "to":   [ 13.999, 18.0, 16.0 ],
+            "faces": {
+                "east":  { "texture": "#rail", "uv": [ 2.0, 0.0, 3.0, 1.0 ] },
+                "south": { "texture": "#rail", "uv": [ 4.0, 0.0, 2.0, 1.0 ] },
+                "west":  { "texture": "#rail", "uv": [ 3.0, 0.0, 4.0, 1.0 ] },
+                "up":    { "texture": "#rail", "uv": [ 4.0, 0.0, 2.0, 1.0 ] }
+            }
+        },
+        {
+            "name": "Connecting knob right",
+            "from": [ 2.001, 16.8, 15.171 ],
+            "to":   [ 3.999, 18.0, 16.0 ],
+            "faces": {
+                "east":  { "texture": "#rail", "uv": [ 12.0, 0.0, 13.0, 1.0 ] },
+                "south": { "texture": "#rail", "uv": [ 14.0, 0.0, 12.0, 1.0 ] },
+                "west":  { "texture": "#rail", "uv": [ 13.0, 0.0, 14.0, 1.0 ] },
+                "up":    { "texture": "#rail", "uv": [ 14.0, 0.0, 12.0, 1.0 ] }
+            }
+        },
+        {
+            "name": "Golden part top until next",
+            "from": [ 7.0, 9.0, 4.0 ],
+            "to":   [ 9.0, 9.25, 5.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail_special", "uv": [ 9.0, 4.0, 7.0, 3.0 ] },
+                "east":  { "texture": "#rail_special", "uv": [ 8.0, 3.0, 9.0, 4.0 ] },
+                "west":  { "texture": "#rail_special", "uv": [ 7.0, 4.0, 8.0, 3.0 ], "rotation": 90 },
+                "up":    { "texture": "#rail_special", "uv": [ 7.0, 3.0, 9.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 6.0, 9.0, 5.0 ],
+            "to":   [ 10.0, 9.25, 13.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#rail_special", "uv": [ 10.0, 5.0, 6.0, 4.0 ] },
+                "east":  { "texture": "#rail_special", "uv": [ 9.0, 4.0, 10.0, 12.0 ], "rotation": 90 },
+                "south": { "texture": "#rail_special", "uv": [ 6.0, 11.0, 10.0, 12.0 ] },
+                "west":  { "texture": "#rail_special", "uv": [ 6.0, 12.0, 7.0, 4.0 ], "rotation": 90 },
+                "up":    { "texture": "#rail_special", "uv": [ 6.0, 4.0, 10.0, 12.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.0, 9.0, 13.0 ],
+            "to":   [ 9.0, 9.25, 14.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "east":  { "texture": "#rail_special", "uv": [ 8.0, 12.0, 9.0, 13.0 ] },
+                "south": { "texture": "#rail_special", "uv": [ 7.0, 12.0, 9.0, 13.0 ] },
+                "west":  { "texture": "#rail_special", "uv": [ 7.0, 13.0, 8.0, 12.0 ] },
+                "up":    { "texture": "#rail_special", "uv": [ 7.0, 12.0, 9.0, 13.0 ] }
+            }
+        },
+        {
+            "name": "Golden part bottom",
+            "from": [ 6.0, 8.25, 7.0 ],
+            "to":   [ 10.0, 9.0, 11.0 ],
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#rail_special", "uv": [ 9.0, 6.0, 10.0, 10.0 ], "rotation": 90 },
+                "west": { "texture": "#rail_special", "uv": [ 6.0, 10.0, 7.0, 6.0 ], "rotation": 90 },
+                "down": { "texture": "#rail_special", "uv": [ 6.0, 10.0, 10.0, 6.0 ] }
+            }
+        }
+    ]
+}

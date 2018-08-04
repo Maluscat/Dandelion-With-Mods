@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/stone_bricks" },
+            { "model": "block/blockstates_random/stone_bricks_1" },
+            { "model": "block/blockstates_random/stone_bricks_2" },
+            { "model": "block/blockstates_random/stone_bricks_3" },
+            { "model": "block/blockstates_random/stone_bricks_4" }
+        ]
+    }
+}

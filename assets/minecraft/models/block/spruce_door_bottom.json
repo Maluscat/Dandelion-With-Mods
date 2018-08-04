@@ -2,9 +2,9 @@
 	"__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "blocks/door_spruce_lower",
-		"door": "blocks/door_spruce_lower",
-		"knob": "blocks/door_spruce_knob"
+		"particle": "block/spruce_door_bottom",
+		"door": "block/spruce_door_bottom",
+		"knob": "block/spruce_door_knob"
 	},
 	"elements": [
 		{
@@ -50,7 +50,7 @@
 			}
 		},
 		{
-			"name": "Lower metal strip",
+			"name": "bottom metal strip",
 			"from": [ -0.52, 4.0, -0.4 ],
 			"to":   [ 0.4141, 6.0, 16.4 ],
 			"faces": {
@@ -94,7 +94,7 @@
 			}
 		},
 		{
-			"name": "Upper metal strip",
+			"name": "top metal strip",
 			"from": [ -0.52, 15.0, -0.4 ],
 			"to":   [ 0.4141, 16.0, 16.4 ],
 			"faces": {

@@ -1,11 +1,11 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator and by editing this file (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "particle": "blocks/cauldron_side",
-        "0": "blocks/cauldron_bottom",
-        "1": "blocks/cauldron_side",
-        "2": "blocks/cauldron_top",
-        "3": "blocks/water_overlay"
+        "particle": "block/cauldron_side",
+        "0": "block/cauldron_bottom",
+        "1": "block/cauldron_side",
+        "2": "block/cauldron_top",
+        "3": "block/water_overlay"
     },
     "elements": [
         {

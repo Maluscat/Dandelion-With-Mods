@@ -1,0 +1,88 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator and by whining at minecraft for being inconsistent (I wish) (http://mrcrayfish.com/modelcreator/)",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "block/acacia_door_bottom",
+        "door": "block/acacia_door_bottom"
+    },
+    "elements": [
+        {
+            "name": "Bottom edge",
+            "from": [ 0.0, 0.0, 0.0 ],
+            "to":   [ 3.0, 3.0, 16.0 ],
+            "faces": {
+                "north": { "texture": "#door", "uv": [ 15.0, 13.0, 16.0, 16.0 ] },
+                "east":  { "texture": "#door", "uv": [ 0.0, 13.0, 16.0, 16.0 ] },
+                "south": { "texture": "#door", "uv": [ 0.0, 13.0, 1.0, 16.0 ] },
+                "west":  { "texture": "#door", "uv": [ 16.0, 13.0, 0.0, 16.0 ], "cullface": "west" },
+                "up":    { "texture": "#door", "uv": [ 0.0, 14.0, 16.0, 13.0 ], "rotation": 90 },
+                "down":  { "texture": "#door", "uv": [ 0.0, 15.0, 16.0, 16.0 ], "rotation": 90, "cullface": "down" }
+            }
+        },
+        {
+            "name": "Left edge",
+            "from": [ 0.0, 3.0, 0.0 ],
+            "to":   [ 3.0, 16.0, 3.0 ],
+            "faces": {
+                "north": { "texture": "#door", "uv": [ 15.0, 0.0, 16.0, 13.0 ], "cullface": "north" },
+                "east":  { "texture": "#door", "uv": [ 13.0, 0.0, 16.0, 13.0 ] },
+                "south": { "texture": "#door", "uv": [ 13.0, 0.0, 14.0, 13.0 ] },
+                "west":  { "texture": "#door", "uv": [ 16.0, 0.0, 13.0, 13.0 ], "cullface": "west" }
+            }
+        },
+        {
+            "name": "Right edge",
+            "from": [ 0.0, 3.0, 13.0 ],
+            "to":   [ 3.0, 16.0, 16.0 ],
+            "faces": {
+                "north": { "texture": "#door", "uv": [ 2.0, 0.0, 3.0, 13.0 ] },
+                "east":  { "texture": "#door", "uv": [ 13.0, 0.0, 16.0, 13.0 ] },
+                "south": { "texture": "#door", "uv": [ 0.0, 0.0, 1.0, 13.0 ], "cullface": "south" },
+                "west":  { "texture": "#door", "uv": [ 16.0, 0.0, 13.0, 13.0 ], "cullface": "west" }
+            }
+        },
+        {
+            "name": "top horizontal middle strip bottom half",
+            "from": [ 0.4, 15.0, 3.0 ],
+            "to":   [ 2.6, 16.0, 13.0 ],
+            "faces": {
+                "east": { "texture": "#door", "uv": [ 13.0, 0.0, 3.0, 1.0 ] },
+                "west": { "texture": "#door", "uv": [ 3.0, 0.0, 13.0, 1.0 ] },
+                "down": { "texture": "#door", "uv": [ 3.0, 1.0, 13.0, 0.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "bottom horizontal middle strip",
+            "from": [ 0.4, 8.0, 3.0 ],
+            "to":   [ 2.6, 10.0, 13.0 ],
+            "faces": {
+                "east": { "texture": "#door", "uv": [ 3.0, 6.0, 13.0, 8.0 ] },
+                "west": { "texture": "#door", "uv": [ 3.0, 6.0, 13.0, 8.0 ] },
+                "up":   { "texture": "#door", "uv": [ 3.0, 7.0, 13.0, 6.0 ], "rotation": 90 },
+                "down": { "texture": "#door", "uv": [ 3.0, 7.0, 13.0, 8.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "top vertical stripl",
+            "from": [ 0.5, 10.0, 7.0 ],
+            "to":   [ 2.5, 15.0, 9.0 ],
+            "faces": {
+                "north": { "texture": "#door", "uv": [ 8.0, 1.0, 9.0, 6.0 ] },
+                "east":  { "texture": "#door", "uv": [ 7.0, 1.0, 9.0, 6.0 ] },
+                "south": { "texture": "#door", "uv": [ 7.0, 1.0, 8.0, 6.0 ] },
+                "west":  { "texture": "#door", "uv": [ 9.0, 1.0, 7.0, 6.0 ] }
+            }
+        },
+        {
+            "name": "bottom vertical strip",
+            "from": [ 0.5, 3.0, 7.0 ],
+            "to":   [ 2.5, 8.0, 9.0 ],
+            "faces": {
+                "north": { "texture": "#door", "uv": [ 8.0, 8.0, 9.0, 13.0 ] },
+                "east":  { "texture": "#door", "uv": [ 7.0, 8.0, 9.0, 13.0 ] },
+                "south": { "texture": "#door", "uv": [ 7.0, 8.0, 8.0, 13.0 ] },
+                "west":  { "texture": "#door", "uv": [ 9.0, 8.0, 7.0, 13.0 ] }
+            }
+        }
+    ]
+}

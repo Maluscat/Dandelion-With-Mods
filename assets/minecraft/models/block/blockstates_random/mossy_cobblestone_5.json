@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/blockstates_random_textures/mossy_cobblestone_5"
+    }
+}

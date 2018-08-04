@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-            { "model": "sandstone_normal" },
-            { "model": "blockstates_random/sandstone_normal_1" },
-            { "model": "blockstates_random/sandstone_normal_2" },
-            { "model": "blockstates_random/sandstone_normal_3" },
-            { "model": "blockstates_random/sandstone_normal_4" }
+        "": [
+            { "model": "block/sandstone" },
+            { "model": "block/blockstates_random/sandstone_1" },
+            { "model": "block/blockstates_random/sandstone_2" },
+            { "model": "block/blockstates_random/sandstone_3" },
+            { "model": "block/blockstates_random/sandstone_4" }
         ]
     }
 }

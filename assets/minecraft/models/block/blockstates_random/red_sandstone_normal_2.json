@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "blocks/blockstates_random_textures/red_sandstone_bottom_2",
-        "top": "blocks/blockstates_random_textures/red_sandstone_top_2",
-        "side": "blocks/blockstates_random_textures/red_sandstone_normal_2"
-    }
-}

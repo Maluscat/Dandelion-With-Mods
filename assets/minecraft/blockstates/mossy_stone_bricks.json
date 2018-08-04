@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/mossy_stone_bricks" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_1" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_2" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_3" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_4" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_5" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_6" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_7" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_8" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_9" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_10" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_11" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_12" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_13" },
+            { "model": "block/blockstates_random/mossy_stone_bricks_14" }
+        ]
+    }
+}

@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator and by the users reporting bugs when they find them, which no one ever did. I don't bite. It doesn't help to think that the creator will eventually fix it. I can't read minds (http://mrcrayfish.com/modelcreator/)",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/door_acacia_lower",
-        "door": "blocks/door_acacia_lower"
+        "particle": "block/acacia_door_bottom",
+        "door": "block/acacia_door_bottom"
     },
     "elements": [
         {
@@ -42,7 +42,7 @@
             }
         },
         {
-            "name": "Upper horizontal middle strip bottom half",
+            "name": "top horizontal middle strip bottom half",
             "from": [ 0.4, 15.0, 3.0 ],
             "to":   [ 2.6, 16.0, 13.0 ],
             "faces": {
@@ -52,7 +52,7 @@
             }
         },
         {
-            "name": "Lower horizontal middle strip",
+            "name": "bottom horizontal middle strip",
             "from": [ 0.4, 8.0, 3.0 ],
             "to":   [ 2.6, 10.0, 13.0 ],
             "faces": {
@@ -63,7 +63,7 @@
             }
         },
         {
-            "name": "Upper vertical strip",
+            "name": "top vertical strip",
             "from": [ 0.5, 10.0, 7.0 ],
             "to":   [ 2.5, 15.0, 9.0 ],
             "faces": {
@@ -74,7 +74,7 @@
             }
         },
         {
-            "name": "Lower vertical strip",
+            "name": "bottom vertical strip",
             "from": [ 0.5, 3.0, 7.0 ],
             "to":   [ 2.5, 8.0, 9.0 ],
             "faces": {

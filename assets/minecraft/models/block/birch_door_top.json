@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator and by letting down the curtain (http://mrcrayfish.com/modelcreator/)",
     "ambientocclusion": false,
     "textures": {
-	    "particle": "blocks/door_birch_upper",
-        "door": "blocks/door_birch_upper"
+	    "particle": "block/birch_door_top",
+        "door": "block/birch_door_top"
     },
     "elements": [
         {

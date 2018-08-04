@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/blockstates_random_textures/sand_2"
+        "all": "block/blockstates_random_textures/sand_2"
     }
 }

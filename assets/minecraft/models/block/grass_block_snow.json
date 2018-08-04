@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "block/grass_block_snow",
+        "bottom": "block/dirt",
+        "top": "block/grass_block_top",
+        "side": "block/grass_block_snow"
+    }
+}

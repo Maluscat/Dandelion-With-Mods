@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-            { "model": "red_sandstone_normal" },
-            { "model": "blockstates_random/red_sandstone_normal_1" },
-            { "model": "blockstates_random/red_sandstone_normal_2" },
-            { "model": "blockstates_random/red_sandstone_normal_3" },
-            { "model": "blockstates_random/red_sandstone_normal_4" }
+        "": [
+            { "model": "block/red_sandstone" },
+            { "model": "block/blockstates_random/red_sandstone_1" },
+            { "model": "block/blockstates_random/red_sandstone_2" },
+            { "model": "block/blockstates_random/red_sandstone_3" },
+            { "model": "block/blockstates_random/red_sandstone_4" }
         ]
     }
 }
