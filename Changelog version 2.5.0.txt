@@ -1,4 +1,12 @@
 |Vanilla Minecraft|
+Renamed a lot of files (a lot.) to live up to Minecraft's new naming system so that this resource pack can be used for 1.13 again
+Doing this, cleaned up thoroughly at the "back end"
+-> I have renamed approximately 450 files, including editing names inside jsons. Cool huh (I did it with joy!)
+-> This update is a straightforward port of the latest 1.12 update to 1.13. It is definitely stable, I have checked and tested on mostly all files, but it is no content update regarding all the new stuff which got added in the latest update.
+-> Content updates in this way will most likely not happen from my side as I am still not experienced enough to do this kind of work.
+-> If you spot any issues, any missing block or bugged block for instance, please tell me. It is obviously possible that I missed something and without someone telling me, it will most-likely remain unspotted
+
+
 --GUIs--
 Refined the icon placement inside the beacon GUI
 Removed the unused textures for achievements
@@ -22,6 +30,8 @@ Removed forgotten duplicate model files, obviously decreasing file size (which i
 
 --Others--
 Fixed the "g" doing weird stuff when put in a sentence (Seeing this being here for months, I'm sorry this update comes so late)
+Removed the panorama as it was not only outdated but with the new non-blur behaviour it looked overly horrifying its compressed state
+-> I already got a new one running but it still needs refinements in order to be qualified for a panorama
 
 
 |General|
