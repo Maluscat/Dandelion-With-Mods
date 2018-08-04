@@ -1,5 +1,5 @@
 {
-    "parent": "block/almost_full_block",
+    "parent": "block/parents/almost_full_block",
     "textures": {
         "particle": "blocks/blockstates_random_textures/grass_path_side_2",
         "bottom": "blocks/blockstates_random_textures/dirt_3",
