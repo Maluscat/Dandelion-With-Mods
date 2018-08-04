@@ -6,6 +6,5 @@
         "textures": [
             "minecraft:blocks/glass-ctm"
         ]
-    },
-    "animation": {}
+    }
 }
