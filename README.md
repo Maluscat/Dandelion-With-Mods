@@ -32,9 +32,9 @@ This resourcepack is licensed under a [Creative Commons Attribution-NonCommercia
 |Actually Additions|Only black quartz (hopefully more soon)|
 |Applied Energistics 2||
 |Baubles||
-|Better Advancements|Better Achievements 1.11-|
+|Better Advancements|1.11-: Better Achievements|
 |Biomes o' Plenty||
-|Block Drops|JEI Addon|
+|Block Drops|JEI Addon (1.12+ not requiring textures)|
 |Botania||
 |Chisel||
 |Cofh Core|The core for the thermal mods|
@@ -50,7 +50,7 @@ This resourcepack is licensed under a [Creative Commons Attribution-NonCommercia
 |Just Enough Resources|JEI addon|
 |Minecraft Comes alive||
 |Minecraft|With many more items and models|
-|Nethercore||
+|Nether Core||
 |Quark|Only widgets|
 |Railcraft||
 |RFTools||
@@ -58,4 +58,5 @@ This resourcepack is licensed under a [Creative Commons Attribution-NonCommercia
 |Tinker's Construct||
 |The One Probe|-> TOP|
 |Thermal Expansion||
+|Thermal Foundation|A few items|
 |Trash slot||
