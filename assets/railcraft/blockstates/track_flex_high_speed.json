@@ -8,16 +8,16 @@
     },
     "variants": {
         "shape": {
-            "north_south": { "model": "rail_flat_dandelion" },
-            "east_west":   { "model": "rail_flat_dandelion", "y": 90 },
-            "ascending_east":  { "model": "rail_raised_ne_dandelion", "y": 90 },
-            "ascending_west":  { "model": "rail_raised_sw_dandelion", "y": 90 },
-            "ascending_north": { "model": "rail_raised_ne_dandelion" },
-            "ascending_south": { "model": "rail_raised_sw_dandelion" },
-            "south_east": { "model": "rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" } },
-            "south_west": { "model": "rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" }, "y": 90 },
-            "north_west": { "model": "rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" }, "y": 180 },
-            "north_east": { "model": "rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" }, "y": 270 }
+            "north_south": { "model": "parents/rail_flat_dandelion" },
+            "east_west":   { "model": "parents/rail_flat_dandelion", "y": 90 },
+            "ascending_east":  { "model": "parents/rail_raised_ne_dandelion", "y": 90 },
+            "ascending_west":  { "model": "parents/rail_raised_sw_dandelion", "y": 90 },
+            "ascending_north": { "model": "parents/rail_raised_ne_dandelion" },
+            "ascending_south": { "model": "parents/rail_raised_sw_dandelion" },
+            "south_east": { "model": "parents/rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" } },
+            "south_west": { "model": "parents/rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" }, "y": 90 },
+            "north_west": { "model": "parents/rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" }, "y": 180 },
+            "north_east": { "model": "parents/rail_curved_dandelion", "textures": { "rail": "railcraft:blocks/tracks/flex/high_speed_turned" }, "y": 270 }
         }
     }
 }
