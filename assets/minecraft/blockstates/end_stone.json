@@ -1,10 +1,10 @@
 {
     "variants": {
         "": [
-            { "model": "block/end_stone" },
+            { "model": "block/end_stone", "weight": 4 },
             { "model": "block/blockstates_random/end_stone_1" },
-            { "model": "block/blockstates_random/end_stone_2" },
-            { "model": "block/blockstates_random/end_stone_3" },
+            { "model": "block/blockstates_random/end_stone_2", "weight": 3 },
+            { "model": "block/blockstates_random/end_stone_3", "weight": 2 },
             { "model": "block/blockstates_random/end_stone_4" }
         ]
     }
