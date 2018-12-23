@@ -36,7 +36,7 @@ More information to the credits at the project page for this pack! I suppose you
  -animated slimeball,
  -snowball,
  -spectral and tipped arrows,
- -armorstand (later improved by Rennschnee,
+ -armorstand (later improved by Rennschnee),
  -banner,
  -snowman (later made look more derpy by me),
  -the Mojang logo when starting minecraft,
