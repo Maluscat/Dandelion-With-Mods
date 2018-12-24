@@ -1,0 +1,23 @@
+|Vanilla Minecraft|
+--GUIs--
+Added snowy GUIs for winter time!
+
+--Models/Blockstates--
+Fixed the json's for randomized stone bricks still being named incorrectly, causing them to have a missing texture most of the time
+Fixed the fence gate's display on the ground not being desirable
+Rebalanced the weights (how often a specific texture will appear) of randomized end stone to get an overall better result
+
+--Others--
+Added a wintry panorama!
+
+Fixed and improved the horse textures!
+ -> Fixed horses and donkeys being invisible and wonkey by adapting to their new UV layout
+ -> Improved their colors a whole load by unifying and actually adapting them to the dandelion color palette
+ -> Improved their textures, including variants, in general by letting many design choices flow into this
+Fixed horse armor as well!
+
+Improved the font system a lot!
+ -> 1.13 introduced a new file specifically for accented and 'modified' letters with tons of space above and below them:
+ -> Added all given accented and modified letters for an awesome font experience
+ -> Scaled every font file down to its original size again as there is no need for upscaled accents anymore with the new spacy file, saving memory
+ -> Removed unicode page 1E because ẞ is now officially supported
