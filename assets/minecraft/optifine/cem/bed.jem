@@ -1,0 +1,29 @@
+{
+  "__comment": "Original model created using MrCrayfish's model creator as help, transferred to this format by hand",
+  "models": [
+    {
+      "part": "head",
+      "model": "bed_head.jpm",
+      "translate": [16, 16, 9],
+      "rotate": [90, 180, 0]
+    },
+    {
+      "part": "foot",
+      "model": "bed_foot.jpm",
+      "translate": [16, 16, 9],
+      "rotate": [90, 180, 0]
+    },
+    {
+      "part": "leg1"
+    },
+    {
+      "part": "leg2"
+    },
+    {
+      "part": "leg3"
+    },
+    {
+      "part": "leg4"
+    }
+  ]
+}
