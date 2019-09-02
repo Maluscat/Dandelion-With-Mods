@@ -1,13 +1,13 @@
 {
     "variants": {
         "": [
-            { "model": "block/smooth_sandstone" },
-            { "model": "block/blockstates_random/smooth_sandstone_1" },
-            { "model": "block/blockstates_random/smooth_sandstone_2" },
-            { "model": "block/blockstates_random/smooth_sandstone_3" },
-            { "model": "block/blockstates_random/smooth_sandstone_4" },
-            { "model": "block/blockstates_random/smooth_sandstone_5" },
-            { "model": "block/blockstates_random/smooth_sandstone_6" }
+            { "model": "block/cut_sandstone" },
+            { "model": "block/blockstates_random/cut_sandstone_1" },
+            { "model": "block/blockstates_random/cut_sandstone_2" },
+            { "model": "block/blockstates_random/cut_sandstone_3" },
+            { "model": "block/blockstates_random/cut_sandstone_4" },
+            { "model": "block/blockstates_random/cut_sandstone_5" },
+            { "model": "block/blockstates_random/cut_sandstone_6" }
         ]
     }
 }
