@@ -5,6 +5,9 @@
         "layer": "CUTOUT",
         "textures": [
             "minecraft:blocks/glass-ctm"
-        ]
+        ],
+        "extra": {
+          "connect_inside": true
+        }
     }
 }
