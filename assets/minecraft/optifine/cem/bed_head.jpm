@@ -1,0 +1,370 @@
+{
+  "submodels": [
+    {
+      "__comment": "Mattress",
+      "texture": "textures/blocks/bed_mattress",
+      "textureSize": [16, 16],
+      "invertAxis": "xy",
+      "rotate": [0, 0, 180],
+      "boxes": [
+        {
+          "coordinates": [
+            2.0, 4.4, 0.0,
+            12.0, 2.7, 13.9
+          ],
+          "uvEast":  [ 2.0, 7.0, 16.0, 10.0 ],
+          "uvSouth": [ 0.0, 3.0, 12.0, 6.0 ],
+          "uvWest":  [ 1.0, 9.0, 15.0, 12.0 ],
+          "uvUp":    [ 3.0, 1.0, 15.0, 15.0 ],
+          "uvDown":  [ 2.0, 2.0, 13.0, 16.0 ]
+        }
+      ]
+    },
+    {
+      "__comment": "Bed posts",
+      "texture": "textures/blocks/bed_posts",
+      "textureSize": [16, 16],
+      "invertAxis": "xy",
+      "rotate": [0, 0, 180],
+      "boxes": [
+        {
+          "name": "Right",
+          "coordinates": [
+            0.0, 0.0, 14.0,
+            2.0, 9.0, 2.0
+          ],
+          "uvNorth": [ 1.0, 7.0, 3.0, 16.0 ],
+          "uvEast":  [ 4.0, 7.0, 6.0, 16.0 ],
+          "uvSouth": [ 1.0, 7.0, 3.0, 16.0 ],
+          "uvWest":  [ 4.0, 7.0, 6.0, 16.0 ],
+          "uvUp":    [ 3.0, 6.0, 1.0, 4.0 ],
+          "uvDown":  [ 3.0, 4.0, 1.0, 6.0 ]
+        },
+        {
+          "name": "Left",
+          "coordinates": [
+            14.0, 0.0, 14.0,
+            2.0, 9.0, 2.0
+          ],
+          "uvNorth": [ 10.0, 7.0, 12.0, 16.0 ],
+          "uvEast":  [ 13.0, 7.0, 15.0, 16.0 ],
+          "uvSouth": [ 10.0, 7.0, 12.0, 16.0 ],
+          "uvWest":  [ 13.0, 7.0, 15.0, 16.0 ],
+          "uvUp":    [ 12.0, 6.0, 10.0, 4.0 ],
+          "uvDown":  [ 12.0, 4.0, 10.0, 6.0 ]
+        }
+      ]
+    },
+    {
+      "__comment": "Bed frame",
+      "texture": "textures/blocks/bed_frame",
+      "textureSize": [16, 16],
+      "invertAxis": "xy",
+      "rotate": [0, 0, 180],
+      "boxes": [
+        {
+          "name": "Side frame - right",
+          "coordinates": [
+            0.4, 3.0, 0.0,
+            1.3, 2.5, 14.0
+          ],
+          "uvEast": [ 15.0, 14.0, 1.0, 16.0 ],
+          "uvWest": [ 1.0, 14.0, 15.0, 16.0 ],
+          "uvUp":   [ 1.0, 14.0, 15.0, 15.0 ],
+          "uvDown": [ 1.0, 15.0, 15.0, 16.0 ]
+        },
+        {
+          "name": "- Left",
+          "coordinates": [
+            14.4, 3.0, 0.0,
+            1.3, 2.5, 14.0
+          ],
+          "uvEast": [ 15.0, 14.0, 1.0, 16.0 ],
+          "uvWest": [ 1.0, 14.0, 15.0, 16.0 ],
+          "uvUp":   [ 1.0, 14.0, 15.0, 15.0 ],
+          "uvDown": [ 1.0, 15.0, 15.0, 16.0 ]
+        },
+        {
+          "name": "Middle end - left",
+          "coordinates": [
+            12.0, 3.0, 14.4,
+            2.0, 6.0, 1.3
+          ],
+          "uvNorth": [ 14.0, 7.0, 12.0, 13.0 ],
+          "uvSouth": [ 12.0, 7.0, 14.0, 13.0 ],
+          "uvWest":  [ 12.0, 7.0, 13.0, 13.0 ],
+          "uvUp":    [ 12.0, 7.0, 14.0, 8.0 ],
+          "uvDown":  [ 12.0, 12.0, 14.0, 13.0 ]
+        },
+        {
+          "name": "- Right",
+          "coordinates": [
+            2.0, 3.0, 14.4,
+            2.0, 6.0, 1.3
+          ],
+          "uvNorth": [ 4.0, 7.0, 2.0, 13.0 ],
+          "uvEast":  [ 3.0, 7.0, 4.0, 13.0 ],
+          "uvSouth": [ 2.0, 7.0, 4.0, 13.0 ],
+          "uvUp":    [ 2.0, 7.0, 4.0, 8.0 ],
+          "uvDown":  [ 2.0, 12.0, 4.0, 13.0 ]
+        },
+        {
+          "name": "- Top",
+          "coordinates": [
+            4.0, 7.0, 14.4,
+            8.0, 2.0, 1.3
+          ],
+          "uvNorth": [ 4.0, 7.0, 12.0, 9.0 ],
+          "uvSouth": [ 4.0, 7.0, 12.0, 9.0 ],
+          "uvUp":    [ 12.0, 7.0, 4.0, 8.0 ],
+          "uvDown":  [ 12.0, 8.0, 4.0, 9.0 ]
+        },
+        {
+          "name": "- Bottom",
+          "coordinates": [
+            4.0, 3.0, 14.4,
+            8.0, 2.0, 1.3
+          ],
+          "uvNorth": [ 4.0, 11.0, 12.0, 13.0 ],
+          "uvSouth": [ 4.0, 11.0, 12.0, 13.0 ],
+          "uvUp":    [ 12.0, 11.0, 4.0, 12.0 ],
+          "uvDown":  [ 12.0, 12.0, 4.0, 13.0 ]
+        }
+      ]
+    },
+    {
+      "__comment": "Bed main",
+      "textureSize": [64, 64],
+      "invertAxis": "xy",
+      "rotate": [0, 0, 180],
+      "boxes": [
+        {
+          "name": "Pillow",
+          "coordinates": [
+            3.2, 7.1, 9.0,
+            9.6, 0.8, 4.0
+          ],
+          "uvNorth": [ 0.0, 48.0, 16.0, 49.0],
+          "uvEast":  [ 32.0, 63.0, 26.0, 64.0],
+          "uvSouth": [ 0.0, 53.0, 16.0, 54.0],
+          "uvWest":  [ 26.0, 48.0, 32.0, 49.0],
+          "uvUp":    [ 0.0, 48.0, 16.0, 54.0]
+        },
+        {
+          "name": "Blanket base",
+          "coordinates": [
+            2.0, 7.1, 0.0,
+            12.12, 0.6, 7.5
+          ],
+          "uvSouth": [ 2.8, 57.0, 14.9, 56.0],
+          "uvUp": [ 2.8, 64.0, 14.9, 56.5]
+        }
+      ],
+      "__comment": "The first submodel is the rotation origin, the second one the element itself",
+      "submodels": [
+        {
+          "name": "Blanket corner right - 22.5",
+          "invertAxis": "xy",
+          "translate": [ 2.0, 7.7, 14.0 ],
+          "rotate": [ 0, 0, 22.5 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -2.0, -7.7, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  1.66, 7.145, 0.0,
+                  0.34, 0.555, 7.5
+                ],
+                "uvSouth": [ 13.0, 57.0, 14.0, 56.0],
+                "uvUp":    [ 13.0, 64.0, 14.0, 56.5]
+              }
+            ]
+          }
+        },
+        {
+          "name": "- 45",
+          "invertAxis": "xy",
+          "translate": [ 1.445, 7.329, 14.0 ],
+          "rotate": [ 0, 0, 45.0 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -1.445, -7.329, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  1.445, 6.91, 0.0,
+                  0.3407, 0.419, 7.5
+                ],
+                "uvSouth": [ 13.0, 57.0, 14.0, 56.0],
+                "uvUp":    [ 13.0, 64.0, 14.0, 56.5]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blanket side right",
+          "invertAxis": "xy",
+          "translate": [ 2.0, 7.1, 8.0 ],
+          "rotate": [ 0, 0, -22.5 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -2.0, -7.1, -8.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  1.4, 5.6, 0.0,
+                  0.6, 1.5, 7.5
+                ],
+                "uvEast":  [ 24.0, 62.0, 16.0, 63.2],
+                "uvSouth": [ 14.0, 57.0, 15.2, 56.0],
+                "uvWest":  [ 16.0, 62.0, 24.0, 63.2]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blanket end right",
+          "invertAxis": "xy",
+          "translate": [ 1.426, 5.715, 14.0 ],
+          "rotate": [ 0, 0, -45.0 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -1.426, -5.715, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  0.826, 5.115, 0.0,
+                  0.6, 0.6, 7.5
+                ],
+                "uvEast":  [ 24.0, 63.0, 16.0, 64.0],
+                "uvSouth": [ 15.0, 57.0, 16.0, 56.0],
+                "uvWest":  [ 16.0, 63.0, 24.0, 64.0],
+                "uvDown":  [ 15.0, 56.5, 16.0, 64.0]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blanket corner left -22.5",
+          "invertAxis": "xy",
+          "translate": [ 14.0, 7.1, 14.0 ],
+          "rotate": [ 0, 0, -22.5 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -14.0, -7.1, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  13.88, 7.1, 0.0,
+                  0.3357, 0.6, 7.5
+                ],
+                "uvSouth": [ 2.0, 57.0, 3.0, 56.0],
+                "uvUp":    [ 2.0, 64.0, 3.0, 56.5],
+                "uvDown":  [ 2.0, 56.5, 3.0, 64.0]
+              }
+            ]
+          }
+        },
+        {
+          "name": "- 45",
+          "invertAxis": "xy",
+          "translate": [ 14.0, 7.1, 14.0 ],
+          "rotate": [ 0, 0, -45.0 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -14.0, -7.1, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  13.9695, 7.1369, 0.0,
+                  0.3755, 0.6, 7.5
+                ],
+                "uvSouth": [ 2.0, 57.0, 3.0, 56.0],
+                "uvUp":    [ 2.0, 64.0, 3.0, 56.5],
+                "uvDown":  [ 2.0, 56.5, 3.0, 64.0]
+              }
+            ]
+          }
+        },
+        {
+          "name": "- 22.5",
+          "invertAxis": "xy",
+          "translate": [ 14.8, 7.05, 14.0 ],
+          "rotate": [ 0, 0, 22.5 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -14.8, -7.05, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  14.2, 7.05, 0.0,
+                  0.6, 0.28, 7.5
+                ],
+                "uvEast":  [ 24.0, 51.0, 16.0, 50.0],
+                "uvSouth": [ 2.0, 57.0, 3.0, 56.0]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blanket side left",
+          "invertAxis": "xy",
+          "boxes": [
+            {
+              "coordinates": [
+                14.2, 5.98, 0.0,
+                0.6, 1.07, 7.5
+              ],
+              "uvEast":  [ 24.0, 50.0, 16.0, 48.0],
+              "uvSouth": [ 0.0, 56.0, 2.0, 57.0],
+              "uvWest":  [ 16.0, 50.0, 24.0, 48.0]
+            }
+          ]
+        },
+        {
+          "name": "Blanket side left 22.5",
+          "invertAxis": "xy",
+          "translate": [ 14.8, 6.1, 14.0 ],
+          "rotate": [ 0, 0, 22.5 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -14.8, -6.1, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  14.2, 5.68, 0.0,
+                  0.6, 0.539, 7.5
+                ],
+                "uvEast":  [ 24.0, 49.0, 16.0, 48.0],
+                "uvSouth": [ 0.0, 56.0, 1.0, 57.0],
+                "uvWest":  [ 16.0, 49.0, 24.0, 48.0]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blanket end left",
+          "invertAxis": "xy",
+          "translate": [ 14.914, 5.823, 14.0 ],
+          "rotate": [ 0, 0, 45.0 ],
+          "submodel": {
+            "invertAxis": "xy",
+            "translate": [ -14.914, -5.823, -14.0 ],
+            "boxes": [
+              {
+                "coordinates": [
+                  14.314, 5.6, 0.0,
+                  0.6, 0.34, 7.5
+                ],
+                "uvEast":  [ 24.0, 49.0, 16.0, 48.0],
+                "uvSouth": [ 0.0, 56.0, 1.0, 57.0],
+                "uvDown":  [ 24.0, 49.0, 16.0, 48.0]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
