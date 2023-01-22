@@ -1,11 +1,11 @@
-# Dandelion With Mods (DWM)
+# Dandelion With Mods
 A fork of the original Minecraft resource pack [Dandelion](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1243109-16x-1-8-dandelion-biomes-o-plenty-support-updated), adding mod support (mostly GUIs) and lots of vanilla improvements.
 
 <hr>
 
 ## ❗ **DEPRECATION NOTICE** ❗
-###  This project is no longer maintained and won't be receiving any more (major) updates.
-There are many amazing alternatives to this resource pack, having taken Dandelion farther than I ever could have! Some of DWM's textures and models live on in these. Honorable mentions:
+###  This project is no longer maintained and won't be receiving any more updates.
+There are many amazing alternatives to this resource pack, having taken Dandelion further than I ever could have! Some of my textures and models live on in these. Honorable mentions:
 - [Dandelion X](https://www.curseforge.com/minecraft/texture-packs/dandelion-x) by XeroTrinity
 - [Dandelion+](https://www.curseforge.com/minecraft/texture-packs/dandelion-plus) by Hühnerfrikassee
 - [Dandelion Draggon](https://www.planetminecraft.com/texture-pack/dandelion-extended-mods/) by DaxDraggon
@@ -30,11 +30,11 @@ git checkout <version>
 ```
 
 ## Contributing
-Although most of the work is still done by me, Hallo89, DWM is a community project. Many people have contributed to making this better, whether just by rating textures or texturing some themselves. Contributing is appreciated a lot!
+Although most of the work is still done by me, Hallo89, DWM is a community project. Many people have contributed to making it better, whether just by rating textures or texturing some themselves. Contributing is appreciated a lot!
 
 Good ways to contribute are:
-- GitHub: Create an issue, fork this repository or make a pull request, etc.
-- Disord: The [Dandelion Community Discord server](https://discord.gg/63SnH3V) is a good place to talk about textures
+- GitHub: Create an issue, fork this repository or make a pull request
+- Discord: The [Dandelion Community Discord server](https://discord.gg/63SnH3V) is a good place to talk about textures
 
 
 ## Licensing
