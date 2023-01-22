@@ -48,9 +48,9 @@ This resourcepack is licensed under a [Creative Commons Attribution-NonCommercia
 |Actually Additions|Only black quartz (hopefully more soon)|
 |Applied Energistics 2||
 |Baubles||
-|Better Advancements|1.11-: Better Achievements|
+|Better Achievements/Advancements||
 |Biomes o' Plenty||
-|Block Drops|JEI Addon (1.12+ not requiring textures)|
+|Block Drops|1.12+ doesn't require textures|
 |Botania||
 |Chisel||
 |Cofh Core|The core for the thermal mods|
@@ -60,19 +60,19 @@ This resourcepack is licensed under a [Creative Commons Attribution-NonCommercia
 |Forge||
 |Industrialcraft 2||
 |Ironchest||
-|Just Enough Forestry Bees|JEI addon (1.10)|
-|Just Enough Items|-> JEI|
-|JEI Bees|JEI addon|
-|Just Enough Resources|JEI addon|
-|Minecraft Comes alive||
-|Minecraft|With many more items and models|
+|Just Enough Forestry Bees|1.10 only|
+|Just Enough Items||
+|JEI Bees||
+|Just Enough Resources||
+|Minecraft Comes Alive||
+|Minecraft|Added many items, models and GUI improvements|
 |Nether Core||
 |Quark|Only widgets|
-|Railcraft||
+|Railcraft|Fancy model for every rail type|
 |RFTools||
 |Storage Drawers||
 |Tinker's Construct||
-|The One Probe|-> TOP|
+|The One Probe||
 |Thermal Expansion||
 |Thermal Foundation|A few items|
 |Trash slot||
