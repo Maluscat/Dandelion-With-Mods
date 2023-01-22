@@ -1,9 +1,24 @@
-# Dandelion With Mods
+# Dandelion With Mods (DWM)
 A fork of the original Minecraft resource pack [Dandelion](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1243109-16x-1-8-dandelion-biomes-o-plenty-support-updated), adding mod support (mostly GUIs) and lots of vanilla improvements.
 
+<hr>
+
+## ❗ **DEPRECATION NOTICE** ❗
+###  This project is no longer maintained and won't be receiving any more (major) updates.
+There are many amazing alternatives to this resource pack, having taken Dandelion farther than I ever could have! Some of DWM's textures and models live on in these. Honorable mentions:
+- [Dandelion X](https://www.curseforge.com/minecraft/texture-packs/dandelion-x) by XeroTrinity
+- [Dandelion+](https://www.curseforge.com/minecraft/texture-packs/dandelion-plus) by Hühnerfrikassee
+- [Dandelion Draggon](https://www.planetminecraft.com/texture-pack/dandelion-extended-mods/) by DaxDraggon
+
+Thanks for your continuous support and incredibly nice words over the years, and for making this community into what it is now! ~Hallo89
+
+<hr>
+
 ## Installation
+### Download
 This resource pack can be downloaded at [Curseforge](https://minecraft.curseforge.com/projects/dandelion-with-mods) and [Planetminecraft](https://www.planetminecraft.com/texture_pack/mods-addon-pack-for-dandelion-110/), along with a more detailed description of its contents. **Please note that only those two sites are the official hubs for Dandelion With Mods!**
 
+### Git
 If you are adept at using [Git](https://git-scm.com/), you can get the pack directly from the source (this one!) with all experimental and unreleased changes.<br>
 To do this, open the location of your `resourcepacks` folder on your terminal and execute the following command:
 ```sh
